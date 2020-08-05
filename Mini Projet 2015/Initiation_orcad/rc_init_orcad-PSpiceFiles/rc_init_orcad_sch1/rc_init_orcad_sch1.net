@@ -1,0 +1,4 @@
+* source RC_INIT_ORCAD
+R_R1         VE VS  10k  
+C_C1         VS 0  10n  
+V_V2         VE 0 DC 0Vdc AC 1Vac 

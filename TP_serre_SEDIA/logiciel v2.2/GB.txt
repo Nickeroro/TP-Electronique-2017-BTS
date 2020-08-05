@@ -1,0 +1,274 @@
+Graphs
+Single channel graphs
+Group-wise graphs 
+Sampling intervals
+Group definition
+Settings
+Alarm thresholds
+Control setpoints
+Alarm on contact inputs
+Logbooks
+Alarm list
+Phone numbers
+Calibration
+Clock
+Installation
+General data
+Communication
+Measurement sites
+Total
+% saturation
+Alarm thresholds
+Channel
+Lo
+Hi
+% saturation
+Temperature
+Pressure
+Salinity
+Oxygen
+Setpoints
+Channel
+Setpoint
+Program
+Dead zone
+Output
+Mode
+NO
+NC
+Calibration
+Auto
+Name
+Points
+Measurement
+Display group selection
+Group
+General data
+Number of digital input boards
+Number of digital output boards
+Number of analog input boards
+Number of radio boards
+Number of wired channels
+Number of wireless channels
+Analog fault hysteresis
+Analog fault delay (s)
+Alarm output delay (s)
+Time before alarm retriggering (min)
+Number of regulations
+Telephone numbers
+Alarm on contact input
+Display
+Normal state
+Output
+Control
+Communication
+Serial port
+PC number
+PLC number
+Type
+Mode
+Normal
+Local
+Remote
+Interval 
+Month
+Year
+Monthly
+Accumulators
+Integration
+Sampling intervals
+Photoperiod
+Computed channels
+Setting
+Single-channel graphs
+Group-wise graphs
+Over HI threshold
+Under LO threshold
+Alarm off
+Bus CAN
+Battery discharged
+Decrease selected time figure
+Increase selected time figure
+Duplicate selected row on next one
+Alarm groups
+Delayed alarm
+Day
+Start time
+End time
+Calendar
+Groups
+Battery cells installed
+Date
+Time
+Text
+Erase record?
+Regulation
+Excel workbook name
+Name
+Scale
+PLC connected
+Communication interrupted
+Transmission error
+Telephone number
+Excel sheet name
+First line number
+Fault on initialization
+Boolean formula
+Control schedules
+Analog board fault
+Digital input board fault
+Digital output board fault
+Radio channel fault
+Connection/Disconnection
+Temperature channel
+Report
+Energy consumption
+Start date
+Power (W)
+Power Consumption
+Editor
+Rectangle
+Rounded rectangle
+Ellipse
+Measure point
+Contact input
+Contact output
+Move
+Delete
+Copy figure
+Input number
+Output number
+Unit name
+Sheet title
+Number of measurements (3 max)
+Units
+Input
+Arrow position
+None
+Down 
+Right
+Left
+Up
+Channel selection
+Channel identification
+Select registration date
+Select measurement group
+Print graphs
+Lo alarm threshold :
+Hi alarm threshold :
+Saturation ratio
+Language
+French
+English
+Spanish
+Italian
+German
+Norvegian
+Danish
+Japanese
+Save changes
+Export
+Raw records
+Average
+End date
+Export directory
+Name of export file
+Selected channels
+Sedia-Aqualarm
+Hysteresis on alarm threshhold
+Print
+Erase
+Active link
+Channel
+Cancel
+Platform regulation
+from
+to
+RAZ Conso
+Fix setpoint
+Programs
+Time
+Setpoint
+Modem installed ?
+Records download enabled
+Filtering
+Level
+Maximum records number (days)
+Administrator code
+Start
+Stop
+Events logbook
+Name
+Access code
+Changes enabled
+Access
+Start day
+End day
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Every day
+Alarm diairy as pop-up
+Pulse value
+Conversion factor
+Counter
+Digital input on time
+Digital output on time
+PLC modem
+PIN code
+Server number
+Radio channels
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Data
+Column
+Insert a bitmap
+to renovate
+Internal bit on time
+Internal bit number
+Internal bit
+Password
+Remote display 
+Colours
+Forced level
+Unstable
+Filtering level
+Alarm modes restoring time
+Control input
+Manual
+Automatic
+Last calibration date
+Alarm flag
+Manual switching enabled
+Channel number
+Transmitter number
+Setpoint offset
+if level less than
+Negative setpoint offset
+if level greater than
+Steady flow (l/min)
+Upstream probe number
+Downstream
+Upstream high threshold
+Opening rate
+Band
+Interval(s)
+Gate flow (l/min)
+on input
+Clear
+
+

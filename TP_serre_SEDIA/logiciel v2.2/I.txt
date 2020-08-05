@@ -1,0 +1,271 @@
+Grafici
+Visualizzazione per linea
+Visualizzazione per gruppo
+Periodi di campionatura
+Definizione dei gruppi
+Regolazioni
+Soglie d'allarme
+Set
+Allarmi su contatto
+Allarmi
+Giornale degli allarmi
+Numero di chiamata
+Taratura
+Orologio
+Installazione
+Parametri generali
+Comunicazione
+Siti
+Fattori di scala
+Ossigeno in saturazione
+Soglie d'allarme
+Linea di misura
+Basso
+Alto
+Ossigeno in saturazione
+Temperatura
+Pressione
+Salinità
+Ossigeno
+Set
+Linea di misura
+Set
+Programma
+Range
+Uscita
+Senso
+NA
+NC
+Taratura
+Auto
+Etichetta
+Punti
+Misura
+Gruppi di visualizzazione
+Gruppo
+Parametri generali
+Nombre de cartes analogiques
+Nombre de cartes entrées TOR
+Nombre de cartes sorties TOR
+Termine allarme esterno (min)
+Tempo di cambio pagina (s)
+Temps avant réarmement alarme (min)
+Modem installato
+Recupero registrazioni
+Programmi
+Ora
+Set
+Numeri chiamata
+Allarmi su contatto
+Visualizzazione
+Stato normale
+Uscita
+Controllo
+Comunicazione
+Porta seriale
+Numero micro-computer
+Numero Aqualarm
+Tipo
+Modo
+Normale
+Locale
+Distante
+Aqualarm Can V1.1
+Aqualarm Can V1.2
+Oxytop Can V1.1
+Oxytop Can V1.2
+Oxytop Can V2.0
+Label77
+Label78
+Photoperiod
+Voies calculées
+Définition
+Grafici per linea
+Grafici per gruppo
+Superamento soglia ALTA
+Superamento soglia BASSA
+Scomparsa del difetto
+Difetto bus CAN
+Batteria scarica
+Décrémente d'une minute l'heure sélectionnée
+Incrémente d'une minute l'heure sélectionnée
+Copie la ligne sélectionnée sur la suivante
+Groupe d'alarme
+Alarme retardée
+Jour
+Heure début
+Heure fin
+Batteria bassa
+Batteria scarica
+Bloco ingresso contatto
+Data
+Ora
+Etichetta
+Desiderate cancellare il giornale ?
+Regolazione
+Fattori di scala
+Etichetta
+Scala
+Aqualarm connesso
+Communicazione interrotta
+Errore di trasmissione
+Numero di chiamata
+Inizializzazione  del modem
+Interuzione dell' inizializzazione
+Taratura dell' inizializzazione
+Chiamata
+Chiamata interrotta
+Linea occupata
+Nessuna riposta
+Mancanza portanta
+Nessuna tonalità
+Connessione/Deconnessione
+Linea di misura temperatura
+Bilanci
+Consumo dei motori
+Data di portanzi
+Potenza (W)
+Consumo (kWh)
+Storico per Aqualarm
+Rettangolo
+Rettangolo smussato
+Ellisse
+Punto di misura
+Entrata tutto o niente
+Comando dei motori
+Partenza
+Soppressione
+Copia di una figura
+Numero d'entrata
+Numero d'uscita
+Nome dell' unità
+Titolo del foglio
+Numero delle misure (max 3)
+Unità
+Entrate
+Posizione frecce
+Sans
+Basso
+Destra
+Sinistra
+Alto
+Selezione di una via di misura
+Identificazione di una via di misura
+Selezione di una data di registrazione
+Selezione di un gruppo da visualizzar
+Stampa dei grafici
+Soglie d'allarme bassa :
+Soglie d'allarme alta :
+Tasso di saturazione
+Lingue
+Francese
+Inglese
+Spagnolo
+Italiano
+Tedesco
+Norvegese
+Danese
+Japonais
+Salvare le modifiche
+Exportation
+Enregistrements bruts
+Moyennes quotidiennes
+Data di fine
+Répertoire d'exportation
+Nom du fichier exporté
+Voies sélectionnées
+Sedia-Aqualarm
+Isteresi su allarme (ppm/10)
+Imprimer
+Effacer
+Liaison validée
+Voie
+Annuler
+Régulation de plate-formes
+du
+au
+RAZ Conso
+Consigne fixe
+Programmes
+Heure
+Consigne
+Modem installé dans Aqualarm
+Récupération des enregistrements
+Filtrage
+Priorité
+Temps maximum d'archivage (jours)
+Code administrateur
+Démarrage
+Arrêt
+Journal des évènements
+Nom
+Code d'accès
+Modifications autorisées
+Accès
+Date début
+Date fin
+Dimanche
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Tous les jours
+Journal d'alarme surgissant
+Valeur impulsion
+Facteur horaire
+Comptage
+Durée d'activation entrée
+Durée activation sortie
+Modem de l'Aqualarm
+Code PIN
+Numéro du serveur
+Voie radio
+Janvier
+Février
+Mars
+Avril
+Mai
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+Décembre
+Donnée
+Colonne
+Insérer un bitmap
+A reconditionner
+Durée d'activation bit interne
+Numéro bit interne
+bit interne
+Password
+Emission copie
+Colores
+Mode force
+Instabile
+Entrée de controle
+Manuel
+Automatique
+Dernier étalonnage le
+Bit d'alarme
+Forcage autorisé
+Numéro de voie
+Numéro émetteur
+Décalage consigne
+si niveau inférieur à
+Décalage négatif de consigne
+si niveau supèrieur à
+Débit fixe (l/min)
+Numéro sonde amont
+aval
+Seuil haut amont
+Ouverture
+Plage
+Période(s)
+Débit vanne TOR (l/min)
+sur l'entrée
+RAZ
+

@@ -1,0 +1,48 @@
+
+ROM used: 320 (4%)
+          320 (4%) including unused fragments
+
+          1 Average locations per line
+          6 Average locations per statement
+
+RAM used: 19 (5%) at main() level
+          19 (5%) worst case
+
+Stack used: 1 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   78    56 100  affectation_A_a_B.c
+   14     0   0  affectation_A_a_B.h
+  294     0   0  C:\Program Files\PICC\devices\16F876A.h
+----- -----
+  386    56 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     20   6   1             @delay_ms1
+0    296  92   1  2026  4.4  main
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               1
+    Statements              56
+    Comments                73
+    Volume (V)              2032
+    Difficulty (D)          4.4
+    Effort to implement (E) 8864
+    Time to implement (T)   8 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   9
+    Maintainability (MI)    95
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF   316  1728  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

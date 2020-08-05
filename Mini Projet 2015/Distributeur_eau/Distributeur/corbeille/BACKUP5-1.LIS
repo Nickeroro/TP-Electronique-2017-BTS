@@ -1,0 +1,83 @@
+AutoECO Report
+FILE-A: U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\DISTRIBUTEUR\BACKUP5.MAX
+FILE-B: U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\DISTRIBUTEUR\DISTRIBUTEUR_EAU_NETLIST.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding net GND_EARTH
+Adding C14.1 to net 5V
+Adding U2.14 to net 5V
+Adding C13.1 to net 5V
+Deleting C6.1 from net 12V
+Deleting J18.3 from net 12V
+Deleting TP4.1 from net 12V
+Deleting 0RT.1 from net 12V
+Deleting R14.1 from net 12V
+Deleting J2.4 from net 12V
+Deleting C11.1 from net 12V
+Deleting J1.1 from net 12V
+Deleting C7.2 from net 12V
+Deleting U1.5 from net 12V
+Deleting JP1.1 from net 12V
+Deleting U2.5 from net 12V
+Deleting C10.2 from net 12V
+Deleting U2.18 from net 12V
+Deleting C14.2 from net 12V
+Deleting C13.2 from net 12V
+Deleting M1.3 from net 12V
+Deleting C9.1 from net 12V
+Deleting SW3.1 from net 12V
+Deleting C4.1 from net 12V
+Deleting C8.1 from net 12V
+Deleting M3.3 from net 12V
+Deleting C12.1 from net 12V
+Deleting R1.1 from net 12V
+Deleting U1.4 from net 12V
+Deleting J5.2 from net 12V
+Deleting U6.2 from net 12V
+Deleting C2.1 from net 12V
+Deleting R15.1 from net 12V
+Deleting 0I2C.1 from net 12V
+Adding U2.10 to net SCL
+Adding U2.12 to net PGC
+Adding J18.5 to net PGC
+Adding U2.13 to net PGD
+Adding J18.4 to net PGD
+Adding C8.1 to net GND_EARTH
+Adding JP1.1 to net GND_EARTH
+Adding U2.18 to net GND_EARTH
+Adding J5.2 to net GND_EARTH
+Adding C14.2 to net GND_EARTH
+Adding U2.5 to net GND_EARTH
+Adding C6.1 to net GND_EARTH
+Adding M3.3 to net GND_EARTH
+Adding R15.1 to net GND_EARTH
+Adding 0I2C.1 to net GND_EARTH
+Adding C7.2 to net GND_EARTH
+Adding C4.1 to net GND_EARTH
+Adding C11.1 to net GND_EARTH
+Adding J1.1 to net GND_EARTH
+Adding C2.1 to net GND_EARTH
+Adding U6.2 to net GND_EARTH
+Adding C10.2 to net GND_EARTH
+Adding R14.1 to net GND_EARTH
+Adding C9.1 to net GND_EARTH
+Adding J2.4 to net GND_EARTH
+Adding U1.4 to net GND_EARTH
+Adding U1.5 to net GND_EARTH
+Adding M1.3 to net GND_EARTH
+Adding J18.3 to net GND_EARTH
+Adding C12.1 to net GND_EARTH
+Adding TP4.1 to net GND_EARTH
+Adding R1.1 to net GND_EARTH
+Adding SW3.1 to net GND_EARTH
+Adding C13.2 to net GND_EARTH
+Adding 0RT.1 to net GND_EARTH
+Deleting component 58
+Deleting component 57
+Deleting component 56
+Deleting component 55
+Deleting net N37028
+Deleting net N35994
+Deleting net N35793
+Deleting net N18382
+*EOF*
+No errors found

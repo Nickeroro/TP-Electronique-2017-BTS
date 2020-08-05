@@ -1,0 +1,18 @@
+** Profile: "rc_init_orcad_sch1-rc_init_transitoire"  [ u:\mes documents\mini projet 2015\travail_orcad\rc_init_orcad-PSpiceFiles\rc_init_orcad_sch1\rc_init_transitoire.sim ] 
+
+** Creating circuit file "rc_init_transitoire.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_10.5\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 3ms 0 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\rc_init_orcad_sch1.net" 
+
+
+.END

@@ -1,0 +1,40 @@
+[PROJECT]
+Target=Test_afficheur.HEX
+Development_Mode=2
+Processor=0x876A
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=U:\Mes Documents\Electronique\tp_pic_c\Séance_3\PCW_Programmes\Test_afficheur\Test_afficheur.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[Test_afficheur.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=TEST_A~1.C
+
+[Windows]
+0=0000 TEST_A~1.C 0 0 796 451 3 0
+
+[Opened Files]
+1=Test_afficheur.c
+2=..\..\..\Séance_1\PCW_Programmes\Affectation A a B\affectation_A_a_B.c
+3=
+[Units]
+Count=1
+1=Test_afficheur (main)

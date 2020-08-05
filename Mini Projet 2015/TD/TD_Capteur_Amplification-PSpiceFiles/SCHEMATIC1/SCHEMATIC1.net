@@ -1,0 +1,12 @@
+* source TD_CAPTEUR_AMPLIFICATION
+R_R2         AN0 N00506  10k  
+C_C1         0 +5V  100n  
+C_C8         AN0 0  680n  
+C_C7         0 N00637  10n  
+C_C5         N00637 N00868  47n  
+C_C6         N00868 0  10n  
+V_V3         N00637 0 2.51Vdc
+V_V2         N00868 0 2.5Vdc
+V_V1         +5V 0 5Vdc
+X_U1         N00637 N00868 N01019 N00939 +5V 0 N00506 0 AD623/AD
+R_R1         N00939 N01019  719  

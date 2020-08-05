@@ -1,0 +1,42 @@
+[PROJECT]
+Target=chenille_avec_bp.HEX
+Development_Mode=2
+Processor=0x876A
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille_avec_bp\chenille_avec_bp.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[chenille_avec_bp.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=CHENIL~1.C
+
+[Windows]
+0=0000 CHENIL~1.C 0 0 796 451 3 0
+
+[Opened Files]
+1=..\La_chenille_avec_2_bp\chenille_avec_bp.c
+2=
+3=..\..\..\Séance_1\PCW_Programmes\PORT_A\Test_24_09_2015_PORT_A.h
+4=..\..\..\Séance_1\PCW_Programmes\Affectation A a B\affectation_A_a_B.h
+5=
+[Units]
+Count=1
+1=chenille_avec_bp (main)

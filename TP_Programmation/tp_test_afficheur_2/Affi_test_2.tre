@@ -1,0 +1,12 @@
+ÀÄAffi_test_2
+   ÀÄMAIN  0/88  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ??0??
+      ÃÄaffichage  0/17  Ram=3
+      ÃÄ@delay_ms1  0/21  Ram=1
+      ÃÄaffichage  0/17  Ram=3
+      ÃÄ@delay_ms1  0/21  Ram=1
+      ÃÄaffichage  0/17  Ram=3
+      ÃÄ@delay_ms1  0/21  Ram=1
+      ÃÄaffichage  0/17  Ram=3
+      ÀÄ@delay_ms1  0/21  Ram=1

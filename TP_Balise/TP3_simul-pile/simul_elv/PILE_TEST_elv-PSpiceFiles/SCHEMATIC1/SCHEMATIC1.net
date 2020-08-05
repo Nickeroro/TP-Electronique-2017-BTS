@@ -1,0 +1,12 @@
+* source PILE_TEST_1
+R_R5         0 VB  27k  
+R_R12         0 VA  62k  
+R_R13         VA VALIM+  22k  
+R_R22         0 VS  33k  
+C_C8         0 VA  22n  
+X_U3A         VB VA VBATT 0 VOUT TLC274/101/TI
+V_U2         VALIM+ 0 5Vdc
+V_Vbatt         VBATT 0  
++PWL 0 0 0 0 
+R_R14         VOUT VS  47k  
+R_R11         VB VBATT  39k  

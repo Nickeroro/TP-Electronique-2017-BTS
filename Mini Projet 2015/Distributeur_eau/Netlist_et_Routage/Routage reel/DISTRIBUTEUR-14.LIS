@@ -1,0 +1,12 @@
+AutoECO Report
+FILE-A: U:\MES DOCUMENTS\ELECTRONIQUE\MINI PROJET 2015\DISTRIBUTEUR_EAU\NETLIST_ET_ROUTAGE\ROUTAGE REEL\DISTRIBUTEUR-13.MAX
+FILE-B: U:\MES DOCUMENTS\ELECTRONIQUE\MINI PROJET 2015\DISTRIBUTEUR_EAU\NETLIST_ET_ROUTAGE\DISTRIBUTEUR_EAU_NETLIST.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package BS170/TO_1
+Adding component U1
+Adding component M3
+ERROR: No footprint found for comp M3
+Adding component U2
+*EOF*
+Unable to complete ECO due to errors
+1 error found

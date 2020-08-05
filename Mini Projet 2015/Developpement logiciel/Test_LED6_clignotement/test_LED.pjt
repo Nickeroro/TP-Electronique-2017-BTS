@@ -1,0 +1,20 @@
+[PROJECT]
+Target=U:\Mes Documents\Electronique\Mini Projet 2015\Developpement logiciel\test_LED.hex
+Development_Mode=
+Processor_Text=PIC16F88
+ToolSuite=CCS
+[U:\Mes Documents\Electronique\Mini Projet 2015\Developpement logiciel\test_LED]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=U:\Mes Documents\Electronique\Mini Projet 2015\Developpement logiciel\test_LED.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=U:\Mes Documents\Electronique\Mini Projet 2015\Developpement logiciel\test_LED

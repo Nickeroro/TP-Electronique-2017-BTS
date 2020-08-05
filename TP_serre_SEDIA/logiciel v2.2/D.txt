@@ -1,0 +1,273 @@
+Graphik
+Anzeige nach Kanal
+Anzeige nach Gruppe
+Perioden der Probenahme
+Definition der Gruppen
+Einstellungen
+Alarmschwellen
+Anweisungen
+Alarme über Kontakt
+Alarme
+Auflistung Alarme
+Telefonnummern
+Eichung
+Uhrwerk
+Installation
+Allgemeine Parameter
+Anrufen
+Anlagen
+Faktoren des Masstabes
+Sättigung Sauerstoff
+Alarmschwelle
+Messkanal
+Tief
+Hoch
+Sättigung Sauerstoff
+Temperatur
+Druck
+Salzhaltigkeit
+Sauerstoff
+Anweisungen
+Messkanalweg
+Anweisung
+Programm
+Trägheit
+Ausgang
+Richtung
+NO
+NG
+Eichung
+Auto
+Unbenannt
+Punkte
+Messung
+Anzeigegruppen
+Gruppe
+Allgemeine Parameter
+Anzahl analogische Karten
+Anzahl eingegangene Karten AON
+Anzahl ausgegangene Karten AON
+Frist externer Alarm (Min)
+Periode für Seitenwechsel (S)
+Temps avant réarmement alarme (min)
+Modem installiert in Aqualarm
+Erfassung der Abspeicherungen
+Programme
+Zeit
+Wert Sauerstoff
+Telefonnummern
+Alarme über Kontakt
+Anzeige
+Normalzustand
+Ausgang
+Kontrolle
+Kommunikation
+Port serie
+Nummer Computer
+Nummer Aqualarm
+Typ
+Modus
+Normal
+Lokal
+Entfern
+Aqualarm Can V1.1
+Aqualarm Can V1.2
+Oxytop Can V1.1
+Oxytop Can V1.2
+Oxytop Can V2.0
+Label 77
+Label 78
+Photoperiod
+Voies calculées
+Définition
+Graphiken pro Kanal
+Graphiken pro Gruppe
+Überschreiten Schwelle HOCH
+Überschreiten Schwelle TIEF
+Fehler verschwunden
+Bus CAN
+Batterie entladen
+Décrémente d'une minute l'heure sélectionnée
+Incrémente d'une minute l'heure sélectionnée
+Copie la ligne sélectionnée sur la suivante
+Alarmgruppe
+Alarme retardée
+Tag
+Heure début
+Heure fin
+Calendrier
+Gruppen
+Block Eingabe AON
+Datum
+Uhrzeit
+Unbenannt
+Möchten sie das Tagebuch löschen?
+Sauerstoff Platform
+Faktoren Masstab
+Unbenannt
+Masstab
+Aqualarm angeschlossen
+Kommunikation unterbrochen
+Übertragungsfehler
+Telefonnummer
+Initialisierung Modem
+Initialisierung unterbrochen
+Initialisierungsfehler
+Anruf
+Anruf unterbrochen
+Linie besetzt
+Keine Antwort
+Kein Informationssignal
+Kein Hörzeichen
+Verbindung/Verbindungslos
+Temperaturmesskanal
+Bilanzen
+Verbrauch der Antreiber
+Anfangsdatum
+Energie (W)
+Verbrauch
+Editor für Aqualarm
+Rechteck
+Abgerundetes Rechteck
+Ellipse
+Messpunkt
+Eingang alles-oder-nichts
+Befehl Antreiber
+Verschiebung
+Beseitigung
+Kopie einer Darstellung
+Eingangsnummer
+Ausgangsnummer
+Name der Einheit
+Überschrift des Blattes
+Anzahl der Messungen (max 3)
+Einheiten
+Eingänge
+Pfeilposition
+Ohne
+Tief
+Rechts
+Links
+Hoch
+Auswahl eines Messkanals
+Identifikation eines Messkanals
+Auswahl eines Speicherungsdatums
+Auswahl einer Anzeigegruppe
+Ausdruck der Grafiken
+Untere Alarmschwelle
+Obere Alarmschwelle
+Sättigungsrate
+Sprache
+Französisch
+Englisch
+Spanisch
+Italienisch
+Deutsch
+Norvegisch
+Dänisch
+Japonais
+Sichern der Änderungen
+Exportierung
+Abspeicherung brutto
+Tägl. Mittelwerte
+Datum Ende
+Verzeichn. Exportierung
+Name der exportierten Datei
+Gewählte Kanäle
+Sedia-Aqualarm
+Trägheit des Alarmes (Mgl/10)
+Drucken
+Löschen
+Verbindung bestätigt
+Kanal
+Löschen
+Sauerstoff Platform
+von
+bis
+Nullstellen
+Fixer Wert Sauerstoff
+Programmes
+Heure
+Consigne
+Modem installé dans Aqualarm
+Récupération des enregistrements
+Filtrage
+Priorité
+Temps maximum d'archivage (jours)
+Code administrateur
+Démarrage
+Arrêt
+Journal des évènements
+Nom
+Code d'accès
+Modifications autorisées
+Accès
+Date début
+Date fin
+Dimanche
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Tous les jours
+Journal d'alarme surgissant
+Valeur impulsion
+Facteur horaire
+Comptage
+Durée d'activation entrée
+Durée activation sortie
+Modem de l'Aqualarm
+Code PIN
+Numéro du serveur
+Voie radio
+Janvier
+Février
+Mars
+Avril
+Mai
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+Décembre
+Donnée
+Colonne
+Insérer bitmap
+A rénover
+Durée d'activation bit interne
+Numéro bit interne
+bit interne
+Password
+Emission copie
+Farben
+Mode force
+Instable
+Niveau de filtrage
+Heure de rétablissement des modes d'alarme
+Entrée de controle
+Manuel
+Automatique
+Dernier étalonnage le
+Bit d'alarme
+Forcage autorisé
+Numéro de voie
+Numéro émetteur
+Décalage consigne
+si niveau inférieur à
+Décalage négatif de consigne
+si niveau supèrieur à
+Débit fixe (l/min)
+Numéro sonde amont
+aval
+Seuil haut amont
+Ouverture
+Plage
+Période(s)
+Débit vanne TOR (l/min)
+sur l'entrée
+RAZ
+

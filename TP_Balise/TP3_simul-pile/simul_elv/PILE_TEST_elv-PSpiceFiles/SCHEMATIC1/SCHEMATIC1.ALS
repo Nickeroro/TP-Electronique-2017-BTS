@@ -1,0 +1,19 @@
+.ALIASES
+R_R5            R5(1=0 2=VB ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10594@ANALOG.R.Normal(chips)
+R_R12           R12(1=0 2=VA ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10614@ANALOG.R.Normal(chips)
+R_R13           R13(1=VA 2=VALIM+ ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10874@ANALOG.R.Normal(chips)
+R_R22           R22(1=0 2=VS ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10634@ANALOG.R.Normal(chips)
+C_C8            C8(1=0 2=VA ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10654@ANALOG.C.Normal(chips)
+X_U3A           U3A(+=VB -=VA V+=VBATT V-=0 OUT=VOUT ) CN
++@PILE_TEST_1.SCHEMATIC1(sch_1):INS10894@TEX_INST.TLC274/101/TI.Normal(chips)
+V_U2            U2(+=VALIM+ -=0 ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10670@SOURCE.VDC.Normal(chips)
+V_Vbatt          Vbatt(+=VBATT -=0 ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10928@SOURCE.VPWL.Normal(chips)
+R_R14           R14(1=VOUT 2=VS ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10554@ANALOG.R.Normal(chips)
+R_R11           R11(1=VB 2=VBATT ) CN @PILE_TEST_1.SCHEMATIC1(sch_1):INS10574@ANALOG.R.Normal(chips)
+_    _(VB=VB)
+_    _(VA=VA)
+_    _(Vbatt=VBATT)
+_    _(VALIM+=VALIM+)
+_    _(VOUT=VOUT)
+_    _(VS=VS)
+.ENDALIASES

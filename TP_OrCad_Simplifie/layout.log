@@ -1,0 +1,1032 @@
+Wed Dec 09 14:32:04 UserDiv from Layout.INI for AutoECO: 60
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\DATA\_DEFAULT.TCH
+Wed Dec 09 14:32:04 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\BCON100T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\BCON156T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\BGA.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\CLCC.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DCON050T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DCON085T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DIMM050F.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DIMM050T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DIN.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DIP100B.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DIP100T.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DSUBT.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\DSUBT_HD.LLB
+Wed Dec 09 14:32:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\ECON100T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\EMPTY.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\EX_GUI.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\FBUS.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\ISA.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\JUMPER.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\LAYOUT.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\LCON100T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\METRIC.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PADSTACK.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PC104.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PCI.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PCON100T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PCON156T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PGA.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\PLCC.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\QUAD.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\QUADB.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\RELAY.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\RF.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SBUS.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SIMM050F.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SIMM050T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SIMM100F.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SIMM100T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SIP.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SM.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SOG.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\SOJ.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\STIFF.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TELE.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_AXIAL.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_CAP_P.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_CYLND.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_DIODE.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_DISC.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TM_RAD.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TO.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\TRAINING.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\VRES.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\WCON100T.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\XT.LLB
+Wed Dec 09 14:32:05 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\LIBRARY\ZIGZAG.LLB
+Wed Dec 09 14:32:05 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:32:45 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Wed Dec 09 14:32:45 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Wed Dec 09 14:33:19 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Wed Dec 09 14:33:19 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Wed Dec 09 14:33:23 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:33:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout\data\template.imp
+Wed Dec 09 14:33:41 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:33:41 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:33:41 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:33:41 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:33:42 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\NETLIST-1.MAX
+Wed Dec 09 14:37:16 Loaded file U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\SCHEMA ROUTAGE\DISTRIB_2015.LLB
+Wed Dec 09 14:37:17 Saved as file ~undo.max
+Wed Dec 09 14:37:20 Saved as file ~undo.max
+Wed Dec 09 14:37:27 Saved as file ~undo.max
+Wed Dec 09 14:37:35 Saved as file ~undo.max
+Wed Dec 09 14:37:41 Saved as file ~undo.max
+Wed Dec 09 14:38:14 Saved as file ~undo.max
+Wed Dec 09 14:38:19 Saved as file ~undo.max
+Wed Dec 09 14:38:23 Saved as file ~undo.max
+Wed Dec 09 14:38:27 Saved as file ~undo.max
+Wed Dec 09 14:38:40 Saved as file ~undo.max
+Wed Dec 09 14:38:45 Saved as file ~undo.max
+Wed Dec 09 14:38:52 Saved as file ~undo.max
+Wed Dec 09 14:38:56 Saved as file ~undo.max
+Wed Dec 09 14:39:01 Saved as file ~undo.max
+Wed Dec 09 14:39:06 Saved as file ~undo.max
+Wed Dec 09 14:39:12 Saved as file ~undo.max
+Wed Dec 09 14:39:16 Saved as file ~undo.max
+Wed Dec 09 14:39:21 Saved as file ~undo.max
+Wed Dec 09 14:39:23 Saved as file ~undo.max
+Wed Dec 09 14:39:30 Saved as file ~undo.max
+Wed Dec 09 14:40:22 Saved as file ~undo.max
+Wed Dec 09 14:40:27 Saved as file ~undo.max
+Wed Dec 09 14:40:32 Saved as file ~undo.max
+Wed Dec 09 14:41:17 Saved as file ~undo.max
+Wed Dec 09 14:41:23 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\NETLIST-1.MAX
+Wed Dec 09 14:41:32 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\NETLIST-2.MAX
+Wed Dec 09 14:45:15 Saved as file BACKUP1.MAX
+Wed Dec 09 14:51:41 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_BACKUP.MAX
+Wed Dec 09 14:51:50 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_MANUEL.MAX
+Wed Dec 09 14:51:59 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 14:52:10 No new connections routed.
+Wed Dec 09 14:52:10 Total is now 0 out of 16 (0%).
+Wed Dec 09 14:52:10 Saved as file SWEEP1.MAX
+Wed Dec 09 14:52:11 Saved as file BACKUP1.MAX
+Wed Dec 09 14:52:11 Saved as file BACKUP1.MAX
+Wed Dec 09 14:52:11 Saved as file BACKUP1.MAX
+Wed Dec 09 14:52:11 Routed 13 connections in 0 seconds.
+Wed Dec 09 14:52:11 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:52:11 Saved as file SWEEP2.MAX
+Wed Dec 09 14:52:12 Routed 1 connections in 0 seconds.
+Wed Dec 09 14:52:12 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:52:12 Saved as file SWEEP3.MAX
+Wed Dec 09 14:52:13 Routed 1 connections in 1 seconds.
+Wed Dec 09 14:52:13 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:52:13 Saved as file SWEEP4.MAX
+Wed Dec 09 14:52:14 No new connections routed.
+Wed Dec 09 14:52:14 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:52:14 Saved as file SWEEP5.MAX
+Wed Dec 09 14:54:34 Saved as file ~undo.max
+Wed Dec 09 14:54:39 Saved as file ~undo.max
+Wed Dec 09 14:54:44 Saved as file ~undo.max
+Wed Dec 09 14:54:53 Saved as file ~undo2.max
+Wed Dec 09 14:54:53 Loaded file ~undo.max
+Wed Dec 09 14:54:53 Saved as file ~undo2.max
+Wed Dec 09 14:54:53 Loaded file ~undo.max
+Wed Dec 09 14:55:00 Loaded file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 14:55:09 Saved as file ~undo.max
+Wed Dec 09 14:55:22 Saved as file ~undo.max
+Wed Dec 09 14:55:25 Saved as file ~undo.max
+Wed Dec 09 14:55:28 Saved as file ~undo.max
+Wed Dec 09 14:55:32 Saved as file ~undo.max
+Wed Dec 09 14:55:33 Saved as file ~undo.max
+Wed Dec 09 14:55:35 Saved as file ~undo.max
+Wed Dec 09 14:55:37 Saved as file ~undo.max
+Wed Dec 09 14:55:45 Saved as file BACKUP1.MAX
+Wed Dec 09 14:55:59 Saved as file ~undo.max
+Wed Dec 09 14:56:04 Saved as file ~undo.max
+Wed Dec 09 14:56:11 Saved as file BACKUP1.MAX
+Wed Dec 09 14:56:11 No new connections routed.
+Wed Dec 09 14:56:11 Total is now 0 out of 16 (0%).
+Wed Dec 09 14:56:11 Saved as file SWEEP1.MAX
+Wed Dec 09 14:56:11 Saved as file BACKUP1.MAX
+Wed Dec 09 14:56:11 Routed 11 connections in 0 seconds.
+Wed Dec 09 14:56:11 Total is now 11 out of 16 (68%).
+Wed Dec 09 14:56:11 Saved as file SWEEP2.MAX
+Wed Dec 09 14:56:13 Routed 1 connections in 1 seconds.
+Wed Dec 09 14:56:13 Total is now 12 out of 16 (75%).
+Wed Dec 09 14:56:13 Saved as file SWEEP3.MAX
+Wed Dec 09 14:56:14 Routed 1 connections in 1 seconds.
+Wed Dec 09 14:56:14 Total is now 12 out of 16 (75%).
+Wed Dec 09 14:56:15 Saved as file SWEEP4.MAX
+Wed Dec 09 14:56:17 No new connections routed.
+Wed Dec 09 14:56:17 Total is now 12 out of 16 (75%).
+Wed Dec 09 14:56:17 Saved as file SWEEP5.MAX
+Wed Dec 09 14:57:05 Saved as file ~undo.max
+Wed Dec 09 14:57:08 Saved as file BACKUP1.MAX
+Wed Dec 09 14:57:08 No new connections routed.
+Wed Dec 09 14:57:08 Total is now 0 out of 16 (0%).
+Wed Dec 09 14:57:08 Saved as file SWEEP1.MAX
+Wed Dec 09 14:57:09 Saved as file BACKUP1.MAX
+Wed Dec 09 14:57:09 Routed 13 connections in 0 seconds.
+Wed Dec 09 14:57:09 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:57:09 Saved as file SWEEP2.MAX
+Wed Dec 09 14:57:10 No new connections routed.
+Wed Dec 09 14:57:10 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:57:10 Saved as file SWEEP3.MAX
+Wed Dec 09 14:57:12 Routed 1 connections in 1 seconds.
+Wed Dec 09 14:57:12 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:57:12 Saved as file SWEEP4.MAX
+Wed Dec 09 14:57:14 Routed 1 connections in 1 seconds.
+Wed Dec 09 14:57:14 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:57:14 Saved as file SWEEP5.MAX
+Wed Dec 09 14:58:14 Saved as file ~undo.max
+Wed Dec 09 14:58:18 Saved as file ~undo.max
+Wed Dec 09 14:58:24 Saved as file ~undo.max
+Wed Dec 09 14:58:26 Saved as file ~undo.max
+Wed Dec 09 14:58:27 Saved as file ~undo.max
+Wed Dec 09 14:58:31 Saved as file ~undo.max
+Wed Dec 09 14:58:35 Saved as file ~undo.max
+Wed Dec 09 14:58:37 Saved as file ~undo.max
+Wed Dec 09 14:58:42 Saved as file BACKUP1.MAX
+Wed Dec 09 14:58:42 Routed 1 connections in 0 seconds.
+Wed Dec 09 14:58:42 Total is now 1 out of 16 (6%).
+Wed Dec 09 14:58:42 Saved as file SWEEP1.MAX
+Wed Dec 09 14:58:42 Saved as file BACKUP1.MAX
+Wed Dec 09 14:58:42 Routed 13 connections in 0 seconds.
+Wed Dec 09 14:58:42 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:58:42 Saved as file SWEEP2.MAX
+Wed Dec 09 14:58:43 No new connections routed.
+Wed Dec 09 14:58:43 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:58:43 Saved as file SWEEP3.MAX
+Wed Dec 09 14:58:44 No new connections routed.
+Wed Dec 09 14:58:44 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:58:44 Saved as file SWEEP4.MAX
+Wed Dec 09 14:58:45 No new connections routed.
+Wed Dec 09 14:58:45 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:58:45 Saved as file SWEEP5.MAX
+Wed Dec 09 14:58:59 Saved as file ~undo.max
+Wed Dec 09 14:59:01 Saved as file ~undo.max
+Wed Dec 09 14:59:05 Saved as file ~undo.max
+Wed Dec 09 14:59:14 Saved as file BACKUP1.MAX
+Wed Dec 09 14:59:14 Routed 1 connections in 0 seconds.
+Wed Dec 09 14:59:14 Total is now 1 out of 16 (6%).
+Wed Dec 09 14:59:14 Saved as file SWEEP1.MAX
+Wed Dec 09 14:59:15 Saved as file BACKUP1.MAX
+Wed Dec 09 14:59:15 Routed 12 connections in 0 seconds.
+Wed Dec 09 14:59:15 Total is now 13 out of 16 (81%).
+Wed Dec 09 14:59:15 Saved as file SWEEP2.MAX
+Wed Dec 09 14:59:15 Routed 1 connections in 0 seconds.
+Wed Dec 09 14:59:15 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:59:15 Saved as file SWEEP3.MAX
+Wed Dec 09 14:59:17 No new connections routed.
+Wed Dec 09 14:59:17 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:59:17 Saved as file SWEEP4.MAX
+Wed Dec 09 14:59:18 No new connections routed.
+Wed Dec 09 14:59:18 Total is now 14 out of 16 (87%).
+Wed Dec 09 14:59:18 Saved as file SWEEP5.MAX
+Wed Dec 09 14:59:33 Saved as file ~undo.max
+Wed Dec 09 14:59:45 Saved as file ~undo.max
+Wed Dec 09 14:59:54 Saved as file ~undo.max
+Wed Dec 09 14:59:58 Saved as file ~undo.max
+Wed Dec 09 15:00:03 Saved as file BACKUP1.MAX
+Wed Dec 09 15:00:03 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:00:03 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:00:03 Saved as file SWEEP1.MAX
+Wed Dec 09 15:00:03 Saved as file BACKUP1.MAX
+Wed Dec 09 15:00:04 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:00:04 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:00:04 Saved as file SWEEP2.MAX
+Wed Dec 09 15:00:04 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:00:04 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:00:04 Saved as file SWEEP3.MAX
+Wed Dec 09 15:00:04 No new connections routed.
+Wed Dec 09 15:00:04 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:00:04 Saved as file SWEEP4.MAX
+Wed Dec 09 15:00:05 No new connections routed.
+Wed Dec 09 15:00:05 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:00:05 Saved as file SWEEP5.MAX
+Wed Dec 09 15:01:31 Saved as file ~undo.max
+Wed Dec 09 15:01:40 Saved as file ~undo.max
+Wed Dec 09 15:01:49 Saved as file BACKUP1.MAX
+Wed Dec 09 15:01:49 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:01:49 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:01:50 Saved as file SWEEP1.MAX
+Wed Dec 09 15:01:50 Saved as file BACKUP1.MAX
+Wed Dec 09 15:01:50 Routed 11 connections in 0 seconds.
+Wed Dec 09 15:01:50 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:01:50 Saved as file SWEEP2.MAX
+Wed Dec 09 15:01:52 No new connections routed.
+Wed Dec 09 15:01:52 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:01:52 Saved as file SWEEP3.MAX
+Wed Dec 09 15:01:54 No new connections routed.
+Wed Dec 09 15:01:54 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:01:54 Saved as file SWEEP4.MAX
+Wed Dec 09 15:01:56 No new connections routed.
+Wed Dec 09 15:01:56 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:01:56 Saved as file SWEEP5.MAX
+Wed Dec 09 15:02:18 Saved as file ~undo.max
+Wed Dec 09 15:02:20 Saved as file ~undo.max
+Wed Dec 09 15:02:23 Saved as file ~undo.max
+Wed Dec 09 15:02:25 Saved as file ~undo.max
+Wed Dec 09 15:02:30 Saved as file ~undo.max
+Wed Dec 09 15:02:33 Saved as file ~undo.max
+Wed Dec 09 15:02:35 Saved as file ~undo.max
+Wed Dec 09 15:02:38 Saved as file ~undo.max
+Wed Dec 09 15:02:40 Saved as file ~undo.max
+Wed Dec 09 15:02:46 Saved as file ~undo.max
+Wed Dec 09 15:02:50 Saved as file ~undo.max
+Wed Dec 09 15:03:05 Saved as file BACKUP1.MAX
+Wed Dec 09 15:03:05 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:03:05 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:03:05 Saved as file SWEEP1.MAX
+Wed Dec 09 15:03:06 Saved as file BACKUP1.MAX
+Wed Dec 09 15:03:06 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:03:06 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:03:06 Saved as file SWEEP2.MAX
+Wed Dec 09 15:03:06 No new connections routed.
+Wed Dec 09 15:03:06 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:03:06 Saved as file SWEEP3.MAX
+Wed Dec 09 15:03:08 Routed 1 connections in 1 seconds.
+Wed Dec 09 15:03:08 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:03:08 Saved as file SWEEP4.MAX
+Wed Dec 09 15:03:09 Routed 1 connections in 1 seconds.
+Wed Dec 09 15:03:09 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:03:09 Saved as file SWEEP5.MAX
+Wed Dec 09 15:04:00 Saved as file ~undo.max
+Wed Dec 09 15:04:12 Saved as file BACKUP1.MAX
+Wed Dec 09 15:04:12 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:04:12 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:04:12 Saved as file SWEEP1.MAX
+Wed Dec 09 15:04:13 Saved as file BACKUP1.MAX
+Wed Dec 09 15:04:13 Routed 11 connections in 0 seconds.
+Wed Dec 09 15:04:13 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:04:13 Saved as file SWEEP2.MAX
+Wed Dec 09 15:04:14 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:04:14 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:04:14 Saved as file SWEEP3.MAX
+Wed Dec 09 15:04:15 No new connections routed.
+Wed Dec 09 15:04:15 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:04:15 Saved as file SWEEP4.MAX
+Wed Dec 09 15:04:17 No new connections routed.
+Wed Dec 09 15:04:17 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:04:17 Saved as file SWEEP5.MAX
+Wed Dec 09 15:04:22 Saved as file ~undo.max
+Wed Dec 09 15:04:47 Saved as file BACKUP1.MAX
+Wed Dec 09 15:04:47 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:04:47 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:04:47 Saved as file SWEEP1.MAX
+Wed Dec 09 15:04:47 Saved as file BACKUP1.MAX
+Wed Dec 09 15:04:47 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:04:47 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:04:47 Saved as file SWEEP2.MAX
+Wed Dec 09 15:04:48 No new connections routed.
+Wed Dec 09 15:04:48 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:04:48 Saved as file SWEEP3.MAX
+Wed Dec 09 15:04:49 Routed 1 connections in 1 seconds.
+Wed Dec 09 15:04:49 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:04:50 Saved as file SWEEP4.MAX
+Wed Dec 09 15:04:51 No new connections routed.
+Wed Dec 09 15:04:51 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:04:51 Saved as file SWEEP5.MAX
+Wed Dec 09 15:05:03 Saved as file ~undo.max
+Wed Dec 09 15:05:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:05:15 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:05:15 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:05:15 Saved as file SWEEP1.MAX
+Wed Dec 09 15:05:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:05:15 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:05:15 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:05:16 Saved as file SWEEP2.MAX
+Wed Dec 09 15:05:16 No new connections routed.
+Wed Dec 09 15:05:16 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:05:16 Saved as file SWEEP3.MAX
+Wed Dec 09 15:05:17 No new connections routed.
+Wed Dec 09 15:05:17 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:05:17 Saved as file SWEEP4.MAX
+Wed Dec 09 15:05:18 No new connections routed.
+Wed Dec 09 15:05:18 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:05:18 Saved as file SWEEP5.MAX
+Wed Dec 09 15:05:29 Saved as file ~undo.max
+Wed Dec 09 15:06:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:06:39 Saved as file BACKUP1.MAX
+Wed Dec 09 15:06:39 No new connections routed.
+Wed Dec 09 15:06:39 Total is now 0 out of 16 (0%).
+Wed Dec 09 15:06:39 Saved as file SWEEP1.MAX
+Wed Dec 09 15:06:39 Saved as file BACKUP1.MAX
+Wed Dec 09 15:06:39 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:06:39 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:06:39 Saved as file SWEEP2.MAX
+Wed Dec 09 15:06:40 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:06:40 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:06:40 Saved as file SWEEP3.MAX
+Wed Dec 09 15:06:41 No new connections routed.
+Wed Dec 09 15:06:41 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:06:41 Saved as file SWEEP4.MAX
+Wed Dec 09 15:06:42 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:06:42 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:06:42 Saved as file SWEEP5.MAX
+Wed Dec 09 15:06:48 Saved as file ~undo.max
+Wed Dec 09 15:07:45 Saved as file BACKUP1.MAX
+Wed Dec 09 15:07:45 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:07:45 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:07:45 Saved as file SWEEP1.MAX
+Wed Dec 09 15:07:46 Saved as file BACKUP1.MAX
+Wed Dec 09 15:07:46 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:07:46 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:07:46 Saved as file SWEEP2.MAX
+Wed Dec 09 15:07:46 No new connections routed.
+Wed Dec 09 15:07:46 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:07:46 Saved as file SWEEP3.MAX
+Wed Dec 09 15:07:47 No new connections routed.
+Wed Dec 09 15:07:47 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:07:47 Saved as file SWEEP4.MAX
+Wed Dec 09 15:07:48 No new connections routed.
+Wed Dec 09 15:07:48 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:07:48 Saved as file SWEEP5.MAX
+Wed Dec 09 15:08:03 Saved as file ~undo.max
+Wed Dec 09 15:08:07 Saved as file ~undo.max
+Wed Dec 09 15:08:11 Saved as file ~undo.max
+Wed Dec 09 15:08:17 Saved as file BACKUP1.MAX
+Wed Dec 09 15:08:17 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:08:17 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:08:17 Saved as file SWEEP1.MAX
+Wed Dec 09 15:08:18 Saved as file BACKUP1.MAX
+Wed Dec 09 15:08:18 Routed 11 connections in 0 seconds.
+Wed Dec 09 15:08:18 Total is now 12 out of 16 (75%).
+Wed Dec 09 15:08:18 Saved as file SWEEP2.MAX
+Wed Dec 09 15:08:19 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:08:19 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:08:19 Saved as file SWEEP3.MAX
+Wed Dec 09 15:08:20 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:08:20 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:08:20 Saved as file SWEEP4.MAX
+Wed Dec 09 15:08:21 Routed 1 connections in 1 seconds.
+Wed Dec 09 15:08:21 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:08:21 Saved as file SWEEP5.MAX
+Wed Dec 09 15:08:30 Saved as file ~undo.max
+Wed Dec 09 15:08:43 Saved as file ~undo.max
+Wed Dec 09 15:08:50 Saved as file ~undo.max
+Wed Dec 09 15:08:55 Saved as file ~undo.max
+Wed Dec 09 15:09:01 Saved as file ~undo.max
+Wed Dec 09 15:09:06 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:06 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:06 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:06 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:09:06 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:09:06 Saved as file SWEEP1.MAX
+Wed Dec 09 15:09:07 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:07 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:07 Saved as file BACKUP1.MAX
+Wed Dec 09 15:09:07 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:09:07 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:09:07 Saved as file SWEEP2.MAX
+Wed Dec 09 15:09:07 No new connections routed.
+Wed Dec 09 15:09:07 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:09:07 Saved as file SWEEP3.MAX
+Wed Dec 09 15:09:08 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:09:08 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:09:08 Saved as file SWEEP4.MAX
+Wed Dec 09 15:09:09 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:09:09 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:09:09 Saved as file SWEEP5.MAX
+Wed Dec 09 15:09:14 Saved as file ~undo.max
+Wed Dec 09 15:10:37 Saved as file BACKUP1.MAX
+Wed Dec 09 15:10:37 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:10:37 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:10:37 Saved as file SWEEP1.MAX
+Wed Dec 09 15:10:37 Saved as file BACKUP1.MAX
+Wed Dec 09 15:10:37 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:10:37 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:10:37 Saved as file SWEEP2.MAX
+Wed Dec 09 15:10:38 No new connections routed.
+Wed Dec 09 15:10:38 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:10:38 Saved as file SWEEP3.MAX
+Wed Dec 09 15:10:38 No new connections routed.
+Wed Dec 09 15:10:38 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:10:38 Saved as file SWEEP4.MAX
+Wed Dec 09 15:10:39 No new connections routed.
+Wed Dec 09 15:10:39 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:10:39 Saved as file SWEEP5.MAX
+Wed Dec 09 15:11:20 Saved as file ~undo.max
+Wed Dec 09 15:11:20 Saved as file ~undo2.max
+Wed Dec 09 15:11:20 Loaded file ~undo.max
+Wed Dec 09 15:11:28 Saved as file BACKUP1.MAX
+Wed Dec 09 15:11:28 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:11:28 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:11:28 Saved as file SWEEP1.MAX
+Wed Dec 09 15:11:28 Saved as file BACKUP1.MAX
+Wed Dec 09 15:11:28 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:11:28 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:11:28 Saved as file SWEEP2.MAX
+Wed Dec 09 15:11:29 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:11:29 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:11:29 Saved as file SWEEP3.MAX
+Wed Dec 09 15:11:29 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:11:29 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:11:29 Saved as file SWEEP4.MAX
+Wed Dec 09 15:11:30 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:11:30 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:11:30 Saved as file SWEEP5.MAX
+Wed Dec 09 15:11:45 Saved as file ~undo.max
+Wed Dec 09 15:13:21 Saved as file BACKUP1.MAX
+Wed Dec 09 15:13:21 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:13:21 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:13:21 Saved as file SWEEP1.MAX
+Wed Dec 09 15:13:22 Saved as file BACKUP1.MAX
+Wed Dec 09 15:13:22 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:13:22 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:13:22 Saved as file SWEEP2.MAX
+Wed Dec 09 15:13:22 No new connections routed.
+Wed Dec 09 15:13:22 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:13:22 Saved as file SWEEP3.MAX
+Wed Dec 09 15:13:23 No new connections routed.
+Wed Dec 09 15:13:23 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:13:23 Saved as file SWEEP4.MAX
+Wed Dec 09 15:13:24 No new connections routed.
+Wed Dec 09 15:13:24 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:13:24 Saved as file SWEEP5.MAX
+Wed Dec 09 15:13:51 Saved as file BACKUP1.MAX
+Wed Dec 09 15:13:51 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:13:51 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:13:51 Saved as file SWEEP1.MAX
+Wed Dec 09 15:13:52 Saved as file BACKUP1.MAX
+Wed Dec 09 15:13:52 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:13:52 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:13:52 Saved as file SWEEP2.MAX
+Wed Dec 09 15:13:52 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:13:52 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:13:52 Saved as file SWEEP3.MAX
+Wed Dec 09 15:13:53 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:13:53 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:13:53 Saved as file SWEEP4.MAX
+Wed Dec 09 15:13:53 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:13:53 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:13:53 Saved as file SWEEP5.MAX
+Wed Dec 09 15:15:30 Saved as file ~undo.max
+Wed Dec 09 15:15:33 Saved as file ~undo.max
+Wed Dec 09 15:15:35 Saved as file ~undo.max
+Wed Dec 09 15:15:39 Saved as file ~undo.max
+Wed Dec 09 15:15:41 Saved as file ~undo.max
+Wed Dec 09 15:15:45 Saved as file ~undo.max
+Wed Dec 09 15:15:59 Saved as file ~undo.max
+Wed Dec 09 15:16:13 Saved as file BACKUP1.MAX
+Wed Dec 09 15:16:13 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:16:13 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:16:13 Saved as file SWEEP1.MAX
+Wed Dec 09 15:16:13 Saved as file BACKUP1.MAX
+Wed Dec 09 15:16:13 Routed 12 connections in 0 seconds.
+Wed Dec 09 15:16:13 Total is now 13 out of 16 (81%).
+Wed Dec 09 15:16:13 Saved as file SWEEP2.MAX
+Wed Dec 09 15:16:14 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:16:14 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:16:14 Saved as file SWEEP3.MAX
+Wed Dec 09 15:16:14 No new connections routed.
+Wed Dec 09 15:16:14 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:16:14 Saved as file SWEEP4.MAX
+Wed Dec 09 15:16:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:16:15 No new connections routed.
+Wed Dec 09 15:16:15 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:16:15 Saved as file SWEEP5.MAX
+Wed Dec 09 15:16:25 Saved as file ~undo.max
+Wed Dec 09 15:16:26 Saved as file ~undo.max
+Wed Dec 09 15:16:28 Saved as file ~undo.max
+Wed Dec 09 15:16:30 Saved as file ~undo.max
+Wed Dec 09 15:16:32 Saved as file ~undo.max
+Wed Dec 09 15:16:34 Saved as file ~undo.max
+Wed Dec 09 15:16:36 Saved as file ~undo.max
+Wed Dec 09 15:16:38 Saved as file ~undo.max
+Wed Dec 09 15:16:41 Saved as file ~undo.max
+Wed Dec 09 15:16:43 Saved as file ~undo.max
+Wed Dec 09 15:16:46 Saved as file ~undo.max
+Wed Dec 09 15:16:48 Saved as file ~undo.max
+Wed Dec 09 15:16:51 Saved as file ~undo.max
+Wed Dec 09 15:16:53 Saved as file ~undo.max
+Wed Dec 09 15:17:01 Saved as file BACKUP1.MAX
+Wed Dec 09 15:17:01 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:17:01 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:17:01 Saved as file SWEEP1.MAX
+Wed Dec 09 15:17:01 Saved as file BACKUP1.MAX
+Wed Dec 09 15:17:01 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:17:01 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:01 Saved as file SWEEP2.MAX
+Wed Dec 09 15:17:01 No new connections routed.
+Wed Dec 09 15:17:01 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:01 Saved as file SWEEP3.MAX
+Wed Dec 09 15:17:02 No new connections routed.
+Wed Dec 09 15:17:02 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:02 Saved as file SWEEP4.MAX
+Wed Dec 09 15:17:03 No new connections routed.
+Wed Dec 09 15:17:03 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:03 Saved as file SWEEP5.MAX
+Wed Dec 09 15:17:11 Saved as file ~undo.max
+Wed Dec 09 15:17:19 Saved as file BACKUP1.MAX
+Wed Dec 09 15:17:19 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:17:19 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:17:19 Saved as file SWEEP1.MAX
+Wed Dec 09 15:17:19 Saved as file BACKUP1.MAX
+Wed Dec 09 15:17:19 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:17:19 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:19 Saved as file SWEEP2.MAX
+Wed Dec 09 15:17:20 No new connections routed.
+Wed Dec 09 15:17:20 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:20 Saved as file SWEEP3.MAX
+Wed Dec 09 15:17:20 No new connections routed.
+Wed Dec 09 15:17:20 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:20 Saved as file SWEEP4.MAX
+Wed Dec 09 15:17:21 No new connections routed.
+Wed Dec 09 15:17:21 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:17:21 Saved as file SWEEP5.MAX
+Wed Dec 09 15:18:00 Saved as file ~undo.max
+Wed Dec 09 15:18:05 Saved as file BACKUP1.MAX
+Wed Dec 09 15:18:05 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:18:05 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:18:05 Saved as file SWEEP1.MAX
+Wed Dec 09 15:18:05 Saved as file BACKUP1.MAX
+Wed Dec 09 15:18:05 Routed 15 connections in 0 seconds.
+Wed Dec 09 15:18:05 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:18:05 Saved as file SWEEP2.MAX
+Wed Dec 09 15:18:05 No new connections routed.
+Wed Dec 09 15:18:05 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:18:05 Saved as file SWEEP3.MAX
+Wed Dec 09 15:18:05 No new connections routed.
+Wed Dec 09 15:18:05 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:18:05 Saved as file SWEEP4.MAX
+Wed Dec 09 15:18:05 No new connections routed.
+Wed Dec 09 15:18:05 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:18:05 Saved as file SWEEP5.MAX
+Wed Dec 09 15:18:39 Saved as file ~undo.max
+Wed Dec 09 15:19:12 Saved as file ~undo.max
+Wed Dec 09 15:19:17 Saved as file ~undo.max
+Wed Dec 09 15:19:26 Saved as file ~undo.max
+Wed Dec 09 15:19:35 Saved as file ~undo.max
+Wed Dec 09 15:19:38 Saved as file ~undo.max
+Wed Dec 09 15:19:47 Saved as file ~undo.max
+Wed Dec 09 15:19:49 Saved as file ~undo.max
+Wed Dec 09 15:20:00 Saved as file ~undo.max
+Wed Dec 09 15:20:03 Saved as file ~undo.max
+Wed Dec 09 15:20:07 Saved as file ~undo.max
+Wed Dec 09 15:20:08 Saved as file ~undo.max
+Wed Dec 09 15:20:12 Saved as file ~undo.max
+Wed Dec 09 15:20:13 Saved as file ~undo.max
+Wed Dec 09 15:20:15 Saved as file ~undo.max
+Wed Dec 09 15:20:17 Saved as file ~undo.max
+Wed Dec 09 15:20:26 Saved as file BACKUP1.MAX
+Wed Dec 09 15:20:26 No new connections routed.
+Wed Dec 09 15:20:26 Total is now 0 out of 16 (0%).
+Wed Dec 09 15:20:26 Saved as file SWEEP1.MAX
+Wed Dec 09 15:20:27 Saved as file BACKUP1.MAX
+Wed Dec 09 15:20:27 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:20:27 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:20:27 Saved as file SWEEP2.MAX
+Wed Dec 09 15:20:27 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:20:27 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:27 Saved as file SWEEP3.MAX
+Wed Dec 09 15:20:27 No new connections routed.
+Wed Dec 09 15:20:27 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:27 Saved as file SWEEP4.MAX
+Wed Dec 09 15:20:28 No new connections routed.
+Wed Dec 09 15:20:28 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:28 Saved as file SWEEP5.MAX
+Wed Dec 09 15:20:40 Saved as file ~undo.max
+Wed Dec 09 15:20:42 Saved as file ~undo.max
+Wed Dec 09 15:20:47 Saved as file BACKUP1.MAX
+Wed Dec 09 15:20:47 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:20:47 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:20:47 Saved as file SWEEP1.MAX
+Wed Dec 09 15:20:48 Saved as file BACKUP1.MAX
+Wed Dec 09 15:20:48 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:20:48 Total is now 14 out of 16 (87%).
+Wed Dec 09 15:20:48 Saved as file SWEEP2.MAX
+Wed Dec 09 15:20:48 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:20:48 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:48 Saved as file SWEEP3.MAX
+Wed Dec 09 15:20:49 No new connections routed.
+Wed Dec 09 15:20:49 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:49 Saved as file SWEEP4.MAX
+Wed Dec 09 15:20:50 No new connections routed.
+Wed Dec 09 15:20:50 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:20:50 Saved as file SWEEP5.MAX
+Wed Dec 09 15:20:57 Saved as file ~undo.max
+Wed Dec 09 15:21:04 Saved as file BACKUP1.MAX
+Wed Dec 09 15:21:04 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:21:04 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:21:04 Saved as file SWEEP1.MAX
+Wed Dec 09 15:21:04 Saved as file BACKUP1.MAX
+Wed Dec 09 15:21:04 Routed 15 connections in 0 seconds.
+Wed Dec 09 15:21:04 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:21:04 Saved as file SWEEP2.MAX
+Wed Dec 09 15:21:04 No new connections routed.
+Wed Dec 09 15:21:04 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:21:04 Saved as file SWEEP3.MAX
+Wed Dec 09 15:21:04 No new connections routed.
+Wed Dec 09 15:21:04 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:21:04 Saved as file SWEEP4.MAX
+Wed Dec 09 15:21:04 No new connections routed.
+Wed Dec 09 15:21:04 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:21:04 Saved as file SWEEP5.MAX
+Wed Dec 09 15:21:10 Saved as file ~undo.max
+Wed Dec 09 15:21:11 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 15:26:45 Saved as file BACKUP1.MAX
+Wed Dec 09 15:37:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:43:29 Saved as file BACKUP1.MAX
+Wed Dec 09 15:43:29 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:43:29 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:43:29 Saved as file SWEEP1.MAX
+Wed Dec 09 15:43:30 Saved as file BACKUP1.MAX
+Wed Dec 09 15:43:30 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:43:30 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:30 Saved as file SWEEP2.MAX
+Wed Dec 09 15:43:30 No new connections routed.
+Wed Dec 09 15:43:30 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:30 Saved as file SWEEP3.MAX
+Wed Dec 09 15:43:31 No new connections routed.
+Wed Dec 09 15:43:31 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:31 Saved as file SWEEP4.MAX
+Wed Dec 09 15:43:31 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:43:31 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:31 Saved as file SWEEP5.MAX
+Wed Dec 09 15:43:46 Saved as file BACKUP1.MAX
+Wed Dec 09 15:43:46 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:43:46 Total is now 1 out of 16 (6%).
+Wed Dec 09 15:43:46 Saved as file SWEEP1.MAX
+Wed Dec 09 15:43:47 Saved as file BACKUP1.MAX
+Wed Dec 09 15:43:47 Routed 14 connections in 0 seconds.
+Wed Dec 09 15:43:47 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:47 Saved as file SWEEP2.MAX
+Wed Dec 09 15:43:47 No new connections routed.
+Wed Dec 09 15:43:47 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:47 Saved as file SWEEP3.MAX
+Wed Dec 09 15:43:48 No new connections routed.
+Wed Dec 09 15:43:48 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:48 Saved as file SWEEP4.MAX
+Wed Dec 09 15:43:48 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:43:48 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:43:48 Saved as file SWEEP5.MAX
+Wed Dec 09 15:44:02 Saved as file ~undo.max
+Wed Dec 09 15:45:04 Saved as file ~undo.max
+Wed Dec 09 15:45:10 Saved as file ~undo.max
+Wed Dec 09 15:45:16 Saved as file ~undo.max
+Wed Dec 09 15:45:23 Saved as file ~undo.max
+Wed Dec 09 15:45:40 Saved as file ~undo.max
+Wed Dec 09 15:45:47 Saved as file ~undo.max
+Wed Dec 09 15:46:00 Saved as file ~undo.max
+Wed Dec 09 15:46:05 Saved as file ~undo.max
+Wed Dec 09 15:46:12 Saved as file BACKUP1.MAX
+Wed Dec 09 15:46:12 No new connections routed.
+Wed Dec 09 15:46:12 Total is now 0 out of 16 (0%).
+Wed Dec 09 15:46:12 Saved as file SWEEP1.MAX
+Wed Dec 09 15:46:12 Saved as file BACKUP1.MAX
+Wed Dec 09 15:46:13 Routed 15 connections in 0 seconds.
+Wed Dec 09 15:46:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:46:13 Saved as file SWEEP2.MAX
+Wed Dec 09 15:46:13 No new connections routed.
+Wed Dec 09 15:46:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:46:13 Saved as file SWEEP3.MAX
+Wed Dec 09 15:46:13 No new connections routed.
+Wed Dec 09 15:46:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:46:13 Saved as file SWEEP4.MAX
+Wed Dec 09 15:46:14 No new connections routed.
+Wed Dec 09 15:46:14 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:46:14 Saved as file SWEEP5.MAX
+Wed Dec 09 15:46:32 Saved as file ~undo.max
+Wed Dec 09 15:46:49 Saved as file ~undo.max
+Wed Dec 09 15:46:56 Saved as file ~undo.max
+Wed Dec 09 15:47:00 Saved as file ~undo.max
+Wed Dec 09 15:47:03 Saved as file ~undo.max
+Wed Dec 09 15:47:06 Saved as file ~undo.max
+Wed Dec 09 15:47:07 Saved as file ~undo.max
+Wed Dec 09 15:47:08 Saved as file ~undo.max
+Wed Dec 09 15:47:13 Saved as file ~undo.max
+Wed Dec 09 15:47:15 Saved as file ~undo.max
+Wed Dec 09 15:47:17 Saved as file ~undo.max
+Wed Dec 09 15:47:26 Saved as file ~undo.max
+Wed Dec 09 15:47:28 Saved as file ~undo.max
+Wed Dec 09 15:47:35 Saved as file BACKUP1.MAX
+Wed Dec 09 15:47:35 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:47:35 Total is now 2 out of 16 (12%).
+Wed Dec 09 15:47:35 Saved as file SWEEP1.MAX
+Wed Dec 09 15:47:35 Saved as file BACKUP1.MAX
+Wed Dec 09 15:47:35 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:47:35 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:47:35 Saved as file SWEEP2.MAX
+Wed Dec 09 15:47:35 Routed 1 connections in 0 seconds.
+Wed Dec 09 15:47:35 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:47:35 Saved as file SWEEP3.MAX
+Wed Dec 09 15:47:35 No new connections routed.
+Wed Dec 09 15:47:35 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:47:35 Saved as file SWEEP4.MAX
+Wed Dec 09 15:47:35 No new connections routed.
+Wed Dec 09 15:47:35 Total is now 16 out of 16 (100%).
+Wed Dec 09 15:47:36 Saved as file SWEEP5.MAX
+Wed Dec 09 15:47:45 Saved as file BACKUP1.MAX
+Wed Dec 09 15:49:43 Saved as file ~undo.max
+Wed Dec 09 15:50:08 Saved as file ~undo.max
+Wed Dec 09 15:50:22 Saved as file BACKUP1.MAX
+Wed Dec 09 15:50:22 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:50:22 Total is now 2 out of 16 (12%).
+Wed Dec 09 15:50:22 Saved as file SWEEP1.MAX
+Wed Dec 09 15:50:22 Saved as file BACKUP1.MAX
+Wed Dec 09 15:50:22 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:50:22 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:50:22 Saved as file SWEEP2.MAX
+Wed Dec 09 15:50:23 No new connections routed.
+Wed Dec 09 15:50:23 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:50:23 Saved as file SWEEP3.MAX
+Wed Dec 09 15:50:23 No new connections routed.
+Wed Dec 09 15:50:23 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:50:23 Saved as file SWEEP4.MAX
+Wed Dec 09 15:50:23 No new connections routed.
+Wed Dec 09 15:50:23 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:50:23 Saved as file SWEEP5.MAX
+Wed Dec 09 15:50:29 Saved as file ~undo.max
+Wed Dec 09 15:50:43 Saved as file ~undo.max
+Wed Dec 09 15:52:12 Saved as file BACKUP1.MAX
+Wed Dec 09 15:52:12 Routed 2 connections in 0 seconds.
+Wed Dec 09 15:52:12 Total is now 2 out of 16 (12%).
+Wed Dec 09 15:52:12 Saved as file SWEEP1.MAX
+Wed Dec 09 15:52:12 Saved as file BACKUP1.MAX
+Wed Dec 09 15:52:12 Routed 13 connections in 0 seconds.
+Wed Dec 09 15:52:12 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:52:13 Saved as file SWEEP2.MAX
+Wed Dec 09 15:52:13 No new connections routed.
+Wed Dec 09 15:52:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:52:13 Saved as file SWEEP3.MAX
+Wed Dec 09 15:52:13 No new connections routed.
+Wed Dec 09 15:52:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:52:13 Saved as file SWEEP4.MAX
+Wed Dec 09 15:52:13 No new connections routed.
+Wed Dec 09 15:52:13 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:52:13 Saved as file SWEEP5.MAX
+Wed Dec 09 15:58:43 Saved as file ~undo.max
+Wed Dec 09 15:58:46 Saved as file ~undo.max
+Wed Dec 09 15:58:56 Saved as file BACKUP1.MAX
+Wed Dec 09 15:58:56 No new connections routed.
+Wed Dec 09 15:58:56 Total is now 0 out of 16 (0%).
+Wed Dec 09 15:58:56 Saved as file SWEEP1.MAX
+Wed Dec 09 15:58:57 Saved as file BACKUP1.MAX
+Wed Dec 09 15:58:57 Routed 15 connections in 0 seconds.
+Wed Dec 09 15:58:57 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:58:57 Saved as file SWEEP2.MAX
+Wed Dec 09 15:58:57 No new connections routed.
+Wed Dec 09 15:58:57 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:58:57 Saved as file SWEEP3.MAX
+Wed Dec 09 15:58:58 No new connections routed.
+Wed Dec 09 15:58:58 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:58:58 Saved as file SWEEP4.MAX
+Wed Dec 09 15:58:59 No new connections routed.
+Wed Dec 09 15:58:59 Total is now 15 out of 16 (93%).
+Wed Dec 09 15:58:59 Saved as file SWEEP5.MAX
+Wed Dec 09 15:59:03 Saved as file ~undo.max
+Wed Dec 09 15:59:06 Saved as file ~undo.max
+Wed Dec 09 15:59:15 Saved as file BACKUP1.MAX
+Wed Dec 09 15:59:17 Saved as file ~undo.max
+Wed Dec 09 15:59:20 Saved as file ~undo.max
+Wed Dec 09 15:59:22 Saved as file ~undo.max
+Wed Dec 09 15:59:24 Saved as file ~undo.max
+Wed Dec 09 15:59:27 Saved as file ~undo.max
+Wed Dec 09 15:59:31 Saved as file ~undo.max
+Wed Dec 09 15:59:36 Saved as file ~undo.max
+Wed Dec 09 15:59:39 Saved as file ~undo.max
+Wed Dec 09 15:59:41 Saved as file ~undo.max
+Wed Dec 09 15:59:42 Saved as file ~undo.max
+Wed Dec 09 15:59:49 Saved as file ~undo.max
+Wed Dec 09 15:59:53 Saved as file ~undo.max
+Wed Dec 09 15:59:58 Saved as file ~undo.max
+Wed Dec 09 16:00:13 Saved as file ~undo.max
+Wed Dec 09 16:00:17 Saved as file ~undo.max
+Wed Dec 09 16:00:24 Saved as file ~undo.max
+Wed Dec 09 16:00:28 Saved as file ~undo.max
+Wed Dec 09 16:00:31 Saved as file ~undo.max
+Wed Dec 09 16:00:33 Saved as file ~undo.max
+Wed Dec 09 16:00:36 Saved as file ~undo.max
+Wed Dec 09 16:00:39 Saved as file ~undo.max
+Wed Dec 09 16:00:41 Saved as file ~undo.max
+Wed Dec 09 16:00:44 Saved as file ~undo.max
+Wed Dec 09 16:00:47 Saved as file ~undo.max
+Wed Dec 09 16:00:49 Saved as file ~undo.max
+Wed Dec 09 16:00:50 Saved as file ~undo.max
+Wed Dec 09 16:00:58 Saved as file ~undo.max
+Wed Dec 09 16:01:07 Saved as file BACKUP1.MAX
+Wed Dec 09 16:01:07 No new connections routed.
+Wed Dec 09 16:01:07 Total is now 0 out of 16 (0%).
+Wed Dec 09 16:01:07 Saved as file SWEEP1.MAX
+Wed Dec 09 16:01:08 Saved as file BACKUP1.MAX
+Wed Dec 09 16:01:08 Routed 13 connections in 0 seconds.
+Wed Dec 09 16:01:08 Total is now 13 out of 16 (81%).
+Wed Dec 09 16:01:08 Saved as file SWEEP2.MAX
+Wed Dec 09 16:01:09 No new connections routed.
+Wed Dec 09 16:01:09 Total is now 13 out of 16 (81%).
+Wed Dec 09 16:01:09 Saved as file SWEEP3.MAX
+Wed Dec 09 16:01:11 No new connections routed.
+Wed Dec 09 16:01:11 Total is now 13 out of 16 (81%).
+Wed Dec 09 16:01:11 Saved as file SWEEP4.MAX
+Wed Dec 09 16:01:12 No new connections routed.
+Wed Dec 09 16:01:12 Total is now 13 out of 16 (81%).
+Wed Dec 09 16:01:12 Saved as file SWEEP5.MAX
+Wed Dec 09 16:01:29 Saved as file ~undo.max
+Wed Dec 09 16:01:34 Saved as file BACKUP1.MAX
+Wed Dec 09 16:01:34 No new connections routed.
+Wed Dec 09 16:01:34 Total is now 0 out of 16 (0%).
+Wed Dec 09 16:01:34 Saved as file SWEEP1.MAX
+Wed Dec 09 16:01:34 Saved as file BACKUP1.MAX
+Wed Dec 09 16:01:34 Routed 12 connections in 0 seconds.
+Wed Dec 09 16:01:34 Total is now 12 out of 16 (75%).
+Wed Dec 09 16:01:34 Saved as file SWEEP2.MAX
+Wed Dec 09 16:01:35 No new connections routed.
+Wed Dec 09 16:01:35 Total is now 12 out of 16 (75%).
+Wed Dec 09 16:01:35 Saved as file SWEEP3.MAX
+Wed Dec 09 16:01:36 No new connections routed.
+Wed Dec 09 16:01:36 Total is now 12 out of 16 (75%).
+Wed Dec 09 16:01:36 Saved as file SWEEP4.MAX
+Wed Dec 09 16:01:38 No new connections routed.
+Wed Dec 09 16:01:38 Total is now 12 out of 16 (75%).
+Wed Dec 09 16:01:38 Saved as file SWEEP5.MAX
+Wed Dec 09 16:01:48 Saved as file ~undo.max
+Wed Dec 09 16:01:54 Saved as file ~undo.max
+Wed Dec 09 16:02:07 Saved as file BACKUP1.MAX
+Wed Dec 09 16:02:07 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:02:07 Total is now 1 out of 16 (6%).
+Wed Dec 09 16:02:07 Saved as file SWEEP1.MAX
+Wed Dec 09 16:02:08 Saved as file BACKUP1.MAX
+Wed Dec 09 16:02:08 Routed 14 connections in 0 seconds.
+Wed Dec 09 16:02:08 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:02:08 Saved as file SWEEP2.MAX
+Wed Dec 09 16:02:08 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:02:08 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:02:08 Saved as file SWEEP3.MAX
+Wed Dec 09 16:02:08 No new connections routed.
+Wed Dec 09 16:02:08 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:02:08 Saved as file SWEEP4.MAX
+Wed Dec 09 16:02:08 No new connections routed.
+Wed Dec 09 16:02:08 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:02:08 Saved as file SWEEP5.MAX
+Wed Dec 09 16:03:06 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:06 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:03:06 Total is now 1 out of 16 (6%).
+Wed Dec 09 16:03:06 Saved as file SWEEP1.MAX
+Wed Dec 09 16:03:07 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:07 Routed 14 connections in 0 seconds.
+Wed Dec 09 16:03:07 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:03:07 Saved as file SWEEP2.MAX
+Wed Dec 09 16:03:07 No new connections routed.
+Wed Dec 09 16:03:07 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:03:07 Saved as file SWEEP3.MAX
+Wed Dec 09 16:03:07 No new connections routed.
+Wed Dec 09 16:03:07 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:03:07 Saved as file SWEEP4.MAX
+Wed Dec 09 16:03:07 No new connections routed.
+Wed Dec 09 16:03:07 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:03:07 Saved as file SWEEP5.MAX
+Wed Dec 09 16:03:25 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:25 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:03:25 Total is now 1 out of 16 (6%).
+Wed Dec 09 16:03:25 Saved as file SWEEP1.MAX
+Wed Dec 09 16:03:25 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:25 Routed 13 connections in 0 seconds.
+Wed Dec 09 16:03:25 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:25 Saved as file SWEEP2.MAX
+Wed Dec 09 16:03:26 No new connections routed.
+Wed Dec 09 16:03:26 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:26 Saved as file SWEEP3.MAX
+Wed Dec 09 16:03:27 No new connections routed.
+Wed Dec 09 16:03:27 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:27 Saved as file SWEEP4.MAX
+Wed Dec 09 16:03:29 No new connections routed.
+Wed Dec 09 16:03:29 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:29 Saved as file SWEEP5.MAX
+Wed Dec 09 16:03:42 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:42 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:03:42 Total is now 1 out of 16 (6%).
+Wed Dec 09 16:03:42 Saved as file SWEEP1.MAX
+Wed Dec 09 16:03:42 Saved as file BACKUP1.MAX
+Wed Dec 09 16:03:42 Routed 13 connections in 0 seconds.
+Wed Dec 09 16:03:42 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:43 Saved as file SWEEP2.MAX
+Wed Dec 09 16:03:43 No new connections routed.
+Wed Dec 09 16:03:43 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:43 Saved as file SWEEP3.MAX
+Wed Dec 09 16:03:44 No new connections routed.
+Wed Dec 09 16:03:44 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:44 Saved as file SWEEP4.MAX
+Wed Dec 09 16:03:45 No new connections routed.
+Wed Dec 09 16:03:45 Total is now 14 out of 16 (87%).
+Wed Dec 09 16:03:45 Saved as file SWEEP5.MAX
+Wed Dec 09 16:03:53 Saved as file ~undo.max
+Wed Dec 09 16:03:58 Saved as file ~undo.max
+Wed Dec 09 16:04:00 Saved as file ~undo.max
+Wed Dec 09 16:04:04 Saved as file ~undo.max
+Wed Dec 09 16:04:09 Saved as file ~undo.max
+Wed Dec 09 16:04:11 Saved as file ~undo.max
+Wed Dec 09 16:04:13 Saved as file ~undo.max
+Wed Dec 09 16:04:18 Saved as file ~undo.max
+Wed Dec 09 16:04:23 Saved as file ~undo.max
+Wed Dec 09 16:04:26 Saved as file BACKUP1.MAX
+Wed Dec 09 16:04:26 Routed 2 connections in 0 seconds.
+Wed Dec 09 16:04:26 Total is now 2 out of 16 (12%).
+Wed Dec 09 16:04:26 Saved as file SWEEP1.MAX
+Wed Dec 09 16:04:26 Saved as file BACKUP1.MAX
+Wed Dec 09 16:04:26 Routed 13 connections in 0 seconds.
+Wed Dec 09 16:04:26 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:04:26 Saved as file SWEEP2.MAX
+Wed Dec 09 16:04:26 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:04:26 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:04:26 Saved as file SWEEP3.MAX
+Wed Dec 09 16:04:26 No new connections routed.
+Wed Dec 09 16:04:26 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:04:26 Saved as file SWEEP4.MAX
+Wed Dec 09 16:04:26 No new connections routed.
+Wed Dec 09 16:04:26 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:04:26 Saved as file SWEEP5.MAX
+Wed Dec 09 16:04:42 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:04:57 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:05:20 Loaded file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_MANUEL.MAX
+Wed Dec 09 16:05:29 Loaded file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:07:52 Saved as file ~undo.max
+Wed Dec 09 16:08:03 Saved as file ~undo.max
+Wed Dec 09 16:08:11 Saved as file ~undo.max
+Wed Dec 09 16:08:14 Saved as file ~undo.max
+Wed Dec 09 16:08:21 Saved as file ~undo.max
+Wed Dec 09 16:08:23 Saved as file ~undo.max
+Wed Dec 09 16:08:27 Saved as file ~undo.max
+Wed Dec 09 16:08:31 Saved as file ~undo.max
+Wed Dec 09 16:08:35 Saved as file ~undo.max
+Wed Dec 09 16:08:38 Saved as file BACKUP1.MAX
+Wed Dec 09 16:08:38 No new connections routed.
+Wed Dec 09 16:08:38 Total is now 0 out of 16 (0%).
+Wed Dec 09 16:08:39 Saved as file SWEEP1.MAX
+Wed Dec 09 16:08:39 Saved as file BACKUP1.MAX
+Wed Dec 09 16:08:39 Routed 15 connections in 0 seconds.
+Wed Dec 09 16:08:39 Total is now 15 out of 16 (93%).
+Wed Dec 09 16:08:39 Saved as file SWEEP2.MAX
+Wed Dec 09 16:08:39 Routed 1 connections in 0 seconds.
+Wed Dec 09 16:08:39 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:08:39 Saved as file SWEEP3.MAX
+Wed Dec 09 16:08:39 No new connections routed.
+Wed Dec 09 16:08:39 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:08:39 Saved as file SWEEP4.MAX
+Wed Dec 09 16:08:39 No new connections routed.
+Wed Dec 09 16:08:39 Total is now 16 out of 16 (100%).
+Wed Dec 09 16:08:39 Saved as file SWEEP5.MAX
+Wed Dec 09 16:08:55 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:09:36 Saved as file ~undo.max
+Wed Dec 09 16:09:45 Saved as file BACKUP1.MAX
+Wed Dec 09 16:09:46 Saved as file ~undo.max
+Wed Dec 09 16:09:52 Saved as file ~undo.max
+Wed Dec 09 16:10:11 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:20:15 Saved as file BACKUP1.MAX
+Wed Dec 09 16:25:58 Saved as file ~undo.max
+Wed Dec 09 16:26:09 Saved as file ~undo.max
+Wed Dec 09 16:26:16 Saved as file ~undo.max
+Wed Dec 09 16:27:13 Saved as file ~undo.max
+Wed Dec 09 16:27:15 Saved as file ~undo.max
+Wed Dec 09 16:27:18 Saved as file ~undo.max
+Wed Dec 09 16:27:23 Saved as file ~undo.max
+Wed Dec 09 16:27:25 Saved as file ~undo2.max
+Wed Dec 09 16:27:25 Loaded file ~undo.max
+Wed Dec 09 16:27:29 Saved as file ~undo.max
+Wed Dec 09 16:27:32 Saved as file ~undo.max
+Wed Dec 09 16:27:59 Saved as file ~undo.max
+Wed Dec 09 16:29:42 Saved as file ~undo.max
+Wed Dec 09 16:29:47 Saved as file ~undo.max
+Wed Dec 09 16:29:57 Saved as file ~undo.max
+Wed Dec 09 16:30:18 Saved as file ~undo.max
+Wed Dec 09 16:30:39 Saved as file ~undo.max
+Wed Dec 09 16:30:43 Saved as file ~undo.max
+Wed Dec 09 16:30:45 Saved as file BACKUP1.MAX
+Wed Dec 09 16:30:53 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:30:54 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:30:54 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX
+Wed Dec 09 16:30:54 Saved as file U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\TP_ORCAD_AUTO.MAX

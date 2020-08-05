@@ -1,0 +1,66 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004     @WRITE_PROGRAM_MEMORY8.P2
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+020     led
+021     lecture_A
+022     @delay_ms1.P1
+022     MAIN.@SCRATCH1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+09C.6   C1OUT
+09C.7   C2OUT
+10D-10E @READ_PROGRAM_MEMORY8.P1
+10D-10E @WRITE_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+0004  @delay_ms1
+0019  sens_droit
+0031  sens_gauche
+0049  MAIN
+0049  @cinit1
+005F  @cinit2
+
+
+User Memory space: 
+
+User Memory space: 
+
+Project Directory:
+    U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille_switch\
+
+Project Files:
+    La_chenille_switch.c                                    [05-nov.-15 10:15  CRC=FFA2CD6C]
+    chenille.h                                              [05-nov.-15 09:22  CRC=9F6953E1]
+    C:\Program Files\PICC\devices\16F876A.h                 [28-févr.-12 12:43  CRC=666C669A]
+
+Source signature=6BE4EE81
+
+Units:
+    La_chenille_switch (main)
+
+Compiler Settings:
+    Processor:      PIC16F876A
+    Pointer Size:   16
+    ADC Range:      0-65535
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      La_chenille_switch.err
+    Ext Symbols: La_chenille_switch.esym
+    INHX8:       La_chenille_switch.hex
+    Symbols:     La_chenille_switch.sym
+    List:        La_chenille_switch.lst
+    Debug/COFF:  La_chenille_switch.cof
+    Project:     La_chenille_switch.PJT
+    Call Tree:   La_chenille_switch.tre
+    Statistics:  La_chenille_switch.STA

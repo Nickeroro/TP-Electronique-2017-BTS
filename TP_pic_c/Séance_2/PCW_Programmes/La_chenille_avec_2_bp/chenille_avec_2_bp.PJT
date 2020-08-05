@@ -1,0 +1,54 @@
+[PROJECT]
+Target=chenille_avec_2_bp.HEX
+Development_Mode=2
+Processor=0x876A
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille_avec_2_bp\chenille_avec_2_bp.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[chenille_avec_2_bp.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=CHENIL~1.C
+
+[Windows]
+0=0000 CHENIL~1.C 0 0 796 451 3 0
+
+[Opened Files]
+1=chenille_avec_2_bp.c
+2=
+[debugperif]
+selected=Analog/Digital Conv
+[debugram]
+autoread=1
+[debugbreak]
+count=0
+[pcwdebug]
+watchcol0=75
+[debugwatch]
+count=0
+[debugexpr]
+expr=
+sideeffects=0
+[debugsfr]
+autoread=1
+[Units]
+Count=1
+1=chenille_avec_2_bp (main)

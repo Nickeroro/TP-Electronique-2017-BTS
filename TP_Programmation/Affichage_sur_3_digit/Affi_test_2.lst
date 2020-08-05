@@ -1,0 +1,286 @@
+CCS PCM C Compiler, Version 4.130, 469               12-janv.-16 09:44
+
+               Filename: U:\Mes Documents\Electronique\TP_Programmation\Affichage_sur_3_digit\Affi_test_2.lst
+
+               ROM used: 249 words (3%)
+                         Largest free fragment is 2048
+               RAM used: 22 (6%) at main() level
+                         26 (7%) worst case
+               Stack:    2 locations
+
+*
+0000:  MOVLW  00
+0001:  MOVWF  0A
+0002:  GOTO   0AB
+0003:  NOP
+.................... #include <affectation_A_a_B.h> 
+.................... #include <16F876A.h> 
+.................... //////// Standard Header file for the PIC16F876A device //////////////// 
+.................... #device PIC16F876A 
+.................... #list 
+....................  
+.................... #device adc=16 
+....................  
+.................... #FUSES NOWDT                    //No Watch Dog Timer 
+.................... #FUSES XT                       //Crystal osc <= 4mhz for PCM/PCH , 3mhz to 10 mhz for PCD 
+.................... #FUSES NOBROWNOUT               //No brownout reset 
+.................... #FUSES NOLVP                    //No low voltage prgming, B3(PIC16) or B5(PIC18) used for I/O 
+....................  
+.................... #use delay(clock=3276800) 
+*
+0096:  MOVLW  31
+0097:  MOVWF  04
+0098:  BCF    03.7
+0099:  MOVF   00,W
+009A:  BTFSC  03.2
+009B:  GOTO   0AA
+009C:  MOVLW  01
+009D:  MOVWF  78
+009E:  CLRF   77
+009F:  DECFSZ 77,F
+00A0:  GOTO   09F
+00A1:  DECFSZ 78,F
+00A2:  GOTO   09E
+00A3:  MOVLW  0E
+00A4:  MOVWF  77
+00A5:  DECFSZ 77,F
+00A6:  GOTO   0A5
+00A7:  NOP
+00A8:  DECFSZ 00,F
+00A9:  GOTO   09C
+00AA:  RETURN
+....................  
+.................... #use STANDARD_IO( A,B ) 
+.................... #use rs232(baud=9600,parity=N,xmit=PIN_C6,rcv=PIN_C7,bits=8,stream=PORT1) 
+....................  
+....................  
+....................  
+....................  
+.................... int table[11]={192,249,164,176,153,146,131,248,128,144,127}; 
+*
+00BE:  MOVLW  C0
+00BF:  BCF    03.5
+00C0:  MOVWF  20
+00C1:  MOVLW  F9
+00C2:  MOVWF  21
+00C3:  MOVLW  A4
+00C4:  MOVWF  22
+00C5:  MOVLW  B0
+00C6:  MOVWF  23
+00C7:  MOVLW  99
+00C8:  MOVWF  24
+00C9:  MOVLW  92
+00CA:  MOVWF  25
+00CB:  MOVLW  83
+00CC:  MOVWF  26
+00CD:  MOVLW  F8
+00CE:  MOVWF  27
+00CF:  MOVLW  80
+00D0:  MOVWF  28
+00D1:  MOVLW  90
+00D2:  MOVWF  29
+00D3:  MOVLW  7F
+00D4:  MOVWF  2A
+.................... int unit, diz, cent, mill; 
+.................... int val;  
+.................... int tempo; 
+....................  
+.................... void decomp_nb(int nombre) 
+.................... { 
+.................... if (nombre<10) 
+*
+003E:  MOVF   31,W
+003F:  SUBLW  09
+0040:  BTFSS  03.0
+0041:  GOTO   047
+....................   { 
+....................     cent=0; 
+0042:  CLRF   2D
+....................     diz=0; 
+0043:  CLRF   2C
+....................     unit=nombre; 
+0044:  MOVF   31,W
+0045:  MOVWF  2B
+....................   } 
+....................    else 
+0046:  GOTO   082
+....................   { 
+....................      if (nombre<100) 
+0047:  MOVF   31,W
+0048:  SUBLW  63
+0049:  BTFSS  03.0
+004A:  GOTO   05C
+....................      { 
+....................      cent=0; 
+004B:  CLRF   2D
+....................      diz=nombre/10; 
+004C:  MOVF   31,W
+004D:  MOVWF  32
+004E:  MOVLW  0A
+004F:  MOVWF  33
+0050:  CALL   004
+0051:  MOVF   78,W
+0052:  MOVWF  2C
+....................      unit=nombre-10*diz; 
+0053:  MOVLW  0A
+0054:  MOVWF  33
+0055:  MOVF   2C,W
+0056:  MOVWF  34
+0057:  CALL   019
+0058:  MOVF   78,W
+0059:  SUBWF  31,W
+005A:  MOVWF  2B
+....................      } 
+....................    else 
+005B:  GOTO   082
+....................    { 
+....................    if (nombre<1000) 
+....................      { 
+....................      cent=nombre/100; 
+005C:  MOVF   31,W
+005D:  MOVWF  32
+005E:  MOVLW  64
+005F:  MOVWF  33
+0060:  CALL   004
+0061:  MOVF   78,W
+0062:  MOVWF  2D
+....................      diz=nombre-cent*100; 
+0063:  MOVF   2D,W
+0064:  MOVWF  33
+0065:  MOVLW  64
+0066:  MOVWF  34
+0067:  CALL   019
+0068:  MOVF   78,W
+0069:  SUBWF  31,W
+006A:  MOVWF  2C
+....................      diz=diz/10; 
+006B:  MOVF   2C,W
+006C:  MOVWF  32
+006D:  MOVLW  0A
+006E:  MOVWF  33
+006F:  CALL   004
+0070:  MOVF   78,W
+0071:  MOVWF  2C
+....................      unit=nombre-10*diz-100*cent; 
+0072:  MOVLW  0A
+0073:  MOVWF  33
+0074:  MOVF   2C,W
+0075:  MOVWF  34
+0076:  CALL   019
+0077:  MOVF   78,W
+0078:  SUBWF  31,W
+0079:  MOVWF  32
+007A:  MOVLW  64
+007B:  MOVWF  33
+007C:  MOVF   2D,W
+007D:  MOVWF  34
+007E:  CALL   019
+007F:  MOVF   78,W
+0080:  SUBWF  32,W
+0081:  MOVWF  2B
+....................      } 
+....................    } 
+....................   } 
+.................... } 
+0082:  BCF    0A.3
+0083:  BCF    0A.4
+0084:  GOTO   0DF (RETURN)
+....................  
+.................... Void affichage(int affi, int chiffre) 
+.................... { 
+.................... output_a(affi); 
+0085:  BSF    03.5
+0086:  CLRF   05
+0087:  BCF    03.5
+0088:  MOVF   31,W
+0089:  MOVWF  05
+.................... output_b(table[chiffre]); 
+008A:  MOVLW  20
+008B:  ADDWF  32,W
+008C:  MOVWF  04
+008D:  BCF    03.7
+008E:  MOVF   00,W
+008F:  MOVWF  33
+0090:  BSF    03.5
+0091:  CLRF   06
+0092:  BCF    03.5
+0093:  MOVF   33,W
+0094:  MOVWF  06
+.................... } 
+0095:  RETURN
+....................  
+.................... void main() 
+.................... {port_b_pullups(0xFF); 
+*
+00AB:  CLRF   04
+00AC:  BCF    03.7
+00AD:  MOVLW  1F
+00AE:  ANDWF  03,F
+00AF:  MOVLW  14
+00B0:  BSF    03.5
+00B1:  MOVWF  19
+00B2:  MOVLW  A6
+00B3:  MOVWF  18
+00B4:  MOVLW  90
+00B5:  BCF    03.5
+00B6:  MOVWF  18
+00B7:  BSF    03.5
+00B8:  BSF    1F.0
+00B9:  BSF    1F.1
+00BA:  BSF    1F.2
+00BB:  BCF    1F.3
+00BC:  MOVLW  07
+00BD:  MOVWF  1C
+*
+00D5:  BSF    03.5
+00D6:  BCF    01.7
+.................... tempo=5; 
+00D7:  MOVLW  05
+00D8:  BCF    03.5
+00D9:  MOVWF  30
+....................   while(TRUE) 
+....................     { 
+....................     val=148; 
+00DA:  MOVLW  94
+00DB:  MOVWF  2F
+....................     decomp_nb(val); 
+00DC:  MOVF   2F,W
+00DD:  MOVWF  31
+00DE:  GOTO   03E
+....................     affichage(2,cent); 
+00DF:  MOVLW  02
+00E0:  MOVWF  31
+00E1:  MOVF   2D,W
+00E2:  MOVWF  32
+00E3:  CALL   085
+....................     delay_ms(tempo); 
+00E4:  MOVF   30,W
+00E5:  MOVWF  31
+00E6:  CALL   096
+....................     affichage(4,diz); 
+00E7:  MOVLW  04
+00E8:  MOVWF  31
+00E9:  MOVF   2C,W
+00EA:  MOVWF  32
+00EB:  CALL   085
+....................     delay_ms(tempo); 
+00EC:  MOVF   30,W
+00ED:  MOVWF  31
+00EE:  CALL   096
+....................     affichage(8,unit); 
+00EF:  MOVLW  08
+00F0:  MOVWF  31
+00F1:  MOVF   2B,W
+00F2:  MOVWF  32
+00F3:  CALL   085
+....................     delay_ms(tempo); 
+00F4:  MOVF   30,W
+00F5:  MOVWF  31
+00F6:  CALL   096
+....................     } 
+00F7:  GOTO   0DA
+....................   } 
+00F8:  SLEEP
+
+Configuration Fuses:
+   Word  1: 3F31   XT NOWDT PUT NOBROWNOUT NOLVP NOCPD NOWRT NODEBUG NOPROTECT

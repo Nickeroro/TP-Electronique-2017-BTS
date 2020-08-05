@@ -1,0 +1,18 @@
+ÀÄAffi_test_2
+   ÀÄMAIN  0/78  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ??0??
+      ÃÄdecomp_nb  0/71  Ram=2
+      ³  ÃÄ@DIV88  0/21  Ram=3
+      ³  ÃÄ@MUL88  0/37  Ram=2
+      ³  ÃÄ@DIV88  0/21  Ram=3
+      ³  ÃÄ@MUL88  0/37  Ram=2
+      ³  ÃÄ@DIV88  0/21  Ram=3
+      ³  ÃÄ@MUL88  0/37  Ram=2
+      ³  ÀÄ@MUL88  0/37  Ram=2
+      ÃÄaffichage  0/17  Ram=3
+      ÃÄ@delay_ms1  0/21  Ram=1
+      ÃÄaffichage  0/17  Ram=3
+      ÃÄ@delay_ms1  0/21  Ram=1
+      ÃÄaffichage  0/17  Ram=3
+      ÀÄ@delay_ms1  0/21  Ram=1

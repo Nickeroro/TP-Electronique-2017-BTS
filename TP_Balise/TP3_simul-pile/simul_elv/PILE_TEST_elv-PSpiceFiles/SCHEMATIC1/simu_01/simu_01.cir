@@ -1,0 +1,17 @@
+** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEMATIC1\simu_01.sim ] 
+
+** Creating circuit file "simu_01.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_10.5\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'hotel';
+    src: url('./font/GrandHotel-Regular.otf');
+}
+body {
+  padding-left: 13em;
+  font-family: Helvetica, Geneva, Arial;
+  color: #fff4e6;
+  font-size: 1.1em ;
+  background: url(./image/sun.png),
+              #4b3832;
+  background-repeat: no-repeat;
+  background-position: top right;
+
+}
+h1 {
+  font-family: hotel, Arial, sans-serif;
+  font-size: 3.5em;
+  color: #be9b7b;
+}
+		
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+}
+
+ul.navbar li {
+  background: #3c2f2f;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border: solid #fff4e6;
+  border-right: solid black;
+  border-radius: 10px;
+}
+ul.navbar a {
+  text-decoration: underline }
+a:link {
+  color: blue }
+a:visited {
+  color: green }
+address {
+  width: 500px;
+  margin: 1em;
+  padding: 1em;
+  border: dotted #fff4e6;
+}
+
+.bvn{
+    color: blue;
+    
+}
+p{
+    width: 500px;
+    padding: 12px;
+    margin-bottom: 20px;
+    text-align: justify;
+    border: none;    
+}

@@ -1,0 +1,14 @@
+#include La_chenille.h
+int Led;
+
+void main()
+{
+   port_B_pullups(0xFF);
+led = 0x01;
+   if(led = 0x01);
+   {
+     led = led2;
+     delay_ms (500);
+   }
+
+}

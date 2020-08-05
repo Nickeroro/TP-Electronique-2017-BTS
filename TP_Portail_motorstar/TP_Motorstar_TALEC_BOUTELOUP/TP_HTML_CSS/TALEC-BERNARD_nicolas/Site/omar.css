@@ -1,0 +1,64 @@
+body {
+  padding-left: 14em;
+  font-family: DejaVu Sans, Times New Roman,Times, serif;
+  color: black;
+  background-color: #999999 }
+
+h1 {
+  font-family: Arial Black, Helvetica, Geneva, Arial;
+  font-size: x-large;
+  }
+		
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+  border-radius: 10px;
+  box-shadow: 6px 6px 6px black;
+  border: 3px black dotted;
+}
+
+a {
+text-decoration: none;
+color: red;
+font-style: normal;
+}
+a:hover {
+text-decoration: underline;
+color: red;
+}
+
+.Bienvenue{
+color: blue;
+}
+
+div{
+width: 500px;
+text-align: justify;
+padding: 12px;
+margin: center;
+margin-bottom: 20px }
+
+body{
+background: url("image/soleil.png") fixed no-repeat top right,
+url("image/1.jpg") fixed;
+}
+
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em }
+ul.navbar a {
+  text-decoration: underline }
+a:link {
+  color: blue }
+a:visited {
+  color: green }
+address {
+  margin-top: 1em;
+  padding-top: 1em }

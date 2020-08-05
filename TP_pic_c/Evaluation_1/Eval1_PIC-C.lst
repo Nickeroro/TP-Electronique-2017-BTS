@@ -1,0 +1,135 @@
+CCS PCM C Compiler, Version 4.130, 469               15-oct.-15 10:54
+
+               Filename: U:\Mes Documents\Electronique\tp_pic_c\eval\Eval1_PIC-C.lst
+
+               ROM used: 77 words (1%)
+                         Largest free fragment is 2048
+               RAM used: 7 (2%) at main() level
+                         8 (2%) worst case
+               Stack:    1 locations
+
+*
+0000:  MOVLW  00
+0001:  MOVWF  0A
+0002:  GOTO   01B
+0003:  NOP
+.................... #include <Eval1_PIC-C.h> 
+.................... #include <16F876A.h> 
+.................... //////// Standard Header file for the PIC16F876A device //////////////// 
+.................... #device PIC16F876A 
+.................... #list 
+....................  
+.................... #device adc=16 
+....................  
+.................... #FUSES NOWDT                 	//No Watch Dog Timer 
+.................... #FUSES XT                    	//Crystal osc <= 4mhz for PCM/PCH , 3mhz to 10 mhz for PCD 
+.................... #FUSES NOBROWNOUT            	//No brownout reset 
+.................... #FUSES NOLVP                 	//No low voltage prgming, B3(PIC16) or B5(PIC18) used for I/O 
+....................  
+.................... #use delay(clock=3276800) 
+0004:  MOVLW  22
+0005:  MOVWF  04
+0006:  BCF    03.7
+0007:  MOVF   00,W
+0008:  BTFSC  03.2
+0009:  GOTO   018
+000A:  MOVLW  01
+000B:  MOVWF  78
+000C:  CLRF   77
+000D:  DECFSZ 77,F
+000E:  GOTO   00D
+000F:  DECFSZ 78,F
+0010:  GOTO   00C
+0011:  MOVLW  0E
+0012:  MOVWF  77
+0013:  DECFSZ 77,F
+0014:  GOTO   013
+0015:  NOP
+0016:  DECFSZ 00,F
+0017:  GOTO   00A
+0018:  BCF    0A.3
+0019:  BCF    0A.4
+001A:  GOTO   03C (RETURN)
+....................  
+.................... #use STANDARD_IO( A,B ) 
+.................... #use rs232(baud=9600,parity=N,xmit=PIN_C6,rcv=PIN_C7,bits=8,stream=PORT1) 
+....................  
+....................  
+....................  
+.................... int portb; 
+....................  
+.................... void main() 
+.................... { 
+001B:  CLRF   04
+001C:  BCF    03.7
+001D:  MOVLW  1F
+001E:  ANDWF  03,F
+001F:  MOVLW  14
+0020:  BSF    03.5
+0021:  MOVWF  19
+0022:  MOVLW  A6
+0023:  MOVWF  18
+0024:  MOVLW  90
+0025:  BCF    03.5
+0026:  MOVWF  18
+0027:  BSF    03.5
+0028:  BSF    1F.0
+0029:  BSF    1F.1
+002A:  BSF    1F.2
+002B:  BCF    1F.3
+002C:  MOVLW  07
+002D:  MOVWF  1C
+....................    port_B_pullups(0xFF); 
+002E:  BCF    01.7
+....................  
+....................    while(true) 
+....................   { 
+....................      portb=1; 
+002F:  MOVLW  01
+0030:  BCF    03.5
+0031:  MOVWF  20
+....................      do 
+....................      { 
+....................      output_B (portb); 
+0032:  BSF    03.5
+0033:  CLRF   06
+0034:  BCF    03.5
+0035:  MOVF   20,W
+0036:  MOVWF  06
+....................      delay_ms (500); 
+0037:  MOVLW  02
+0038:  MOVWF  21
+0039:  MOVLW  FA
+003A:  MOVWF  22
+003B:  GOTO   004
+003C:  DECFSZ 21,F
+003D:  GOTO   039
+....................       
+....................      portb=portb*2; 
+003E:  BCF    03.0
+003F:  RLF    20,F
+....................       if(portb==2) 
+0040:  MOVF   20,W
+0041:  SUBLW  02
+0042:  BTFSS  03.2
+0043:  GOTO   046
+....................           { 
+....................           portb=3; 
+0044:  MOVLW  03
+0045:  MOVWF  20
+....................           } 
+....................      } 
+....................      while((portb&0x3F) !=0); 
+0046:  MOVF   20,W
+0047:  ANDLW  3F
+0048:  BTFSS  03.2
+0049:  GOTO   032
+....................  
+....................   } 
+004A:  BSF    03.5
+004B:  GOTO   02F
+.................... } 
+004C:  SLEEP
+
+Configuration Fuses:
+   Word  1: 3F31   XT NOWDT PUT NOBROWNOUT NOLVP NOCPD NOWRT NODEBUG NOPROTECT

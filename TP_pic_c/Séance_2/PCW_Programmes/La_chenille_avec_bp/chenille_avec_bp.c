@@ -1,0 +1,35 @@
+#include <chenille.h>
+int led;
+void main()
+{
+   port_B_pullups(0xFF);
+      While (true)
+   {
+led = 0x01;
+       
+       If (input_A () == 0x01)
+        { 
+                while (led <= 0x20)//led<5
+               {
+               Output_b(led);
+               delay_ms (250);
+               Output_b(0x00);
+               delay_ms (0);
+               led=led*2;
+               }
+                while (led > 0x01)//led>1
+               {
+               Output_b(led);
+               delay_ms (250);
+               Output_b(0x00);
+               delay_ms (0);
+               led=led/2;
+               }
+        }
+       if (input_A () == 0x00)
+        {
+        Output_b(led);
+        }
+   }
+ }
+

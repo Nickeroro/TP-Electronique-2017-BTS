@@ -1,0 +1,120 @@
+CCS PCM C Compiler, Version 4.130, 469               14-janv.-16 09:28
+
+               Filename: U:\Mes Documents\Electronique\TP_Programmation\capteur_analog_matrix\main.lst
+
+               ROM used: 62 words (1%)
+                         Largest free fragment is 2048
+               RAM used: 6 (2%) at main() level
+                         6 (2%) worst case
+               Stack:    0 locations
+
+*
+0000:  MOVLW  00
+0001:  MOVWF  0A
+0002:  GOTO   004
+0003:  NOP
+.................... #include <main.h> 
+.................... #include <16F876A.h> 
+.................... //////// Standard Header file for the PIC16F876A device //////////////// 
+.................... #device PIC16F876A 
+.................... #list 
+....................  
+.................... #device *=16 
+.................... #device adc=8 
+....................  
+.................... #FUSES NOWDT                 	//No Watch Dog Timer 
+.................... #FUSES XT                    	//Crystal osc <= 4mhz for PCM/PCH , 3mhz to 10 mhz for PCD 
+.................... #FUSES NOBROWNOUT            	//No brownout reset 
+.................... #FUSES NOLVP                 	//No low voltage prgming, B3(PIC16) or B5(PIC18) used for I/O 
+....................  
+.................... #use delay(clock=3276800) 
+....................  
+.................... #use STANDARD_IO( B ) 
+....................  
+....................  
+....................    int valeur; 
+....................  
+.................... void main() 
+.................... { 
+0004:  CLRF   04
+0005:  BCF    03.7
+0006:  MOVLW  1F
+0007:  ANDWF  03,F
+0008:  BSF    03.5
+0009:  BSF    1F.0
+000A:  BSF    1F.1
+000B:  BSF    1F.2
+000C:  BCF    1F.3
+000D:  MOVLW  07
+000E:  MOVWF  1C
+....................    port_B_pullups(0xFF); 
+000F:  BCF    01.7
+....................    setup_adc_ports(ALL_ANALOG); 
+0010:  BCF    1F.0
+0011:  BCF    1F.1
+0012:  BCF    1F.2
+0013:  BCF    1F.3
+....................    setup_adc(ADC_CLOCK_INTERNAL); 
+0014:  BCF    1F.6
+0015:  BCF    03.5
+0016:  BSF    1F.6
+0017:  BSF    1F.7
+0018:  BSF    03.5
+0019:  BCF    1F.7
+001A:  BCF    03.5
+001B:  BSF    1F.0
+....................  
+....................     
+....................    set_adc_channel(1); 
+001C:  MOVLW  08
+001D:  MOVWF  78
+001E:  MOVF   1F,W
+001F:  ANDLW  C7
+0020:  IORWF  78,W
+0021:  MOVWF  1F
+....................    delay_us(20); 
+0022:  MOVLW  05
+0023:  MOVWF  77
+0024:  DECFSZ 77,F
+0025:  GOTO   024
+....................    while(TRUE) 
+....................    {      
+....................        valeur=read_adc(); 
+0026:  BSF    1F.2
+0027:  BTFSC  1F.2
+0028:  GOTO   027
+0029:  MOVF   1E,W
+002A:  MOVWF  20
+....................        if (valeur>100) 
+002B:  MOVF   20,W
+002C:  SUBLW  64
+002D:  BTFSC  03.0
+002E:  GOTO   034
+....................           { 
+....................            output_b(0x01); 
+002F:  BSF    03.5
+0030:  CLRF   06
+0031:  MOVLW  01
+0032:  BCF    03.5
+0033:  MOVWF  06
+....................           } 
+....................        if (valeur<60) 
+0034:  MOVF   20,W
+0035:  SUBLW  3B
+0036:  BTFSS  03.0
+0037:  GOTO   03C
+....................           { 
+....................           output_b(0x00); 
+0038:  BSF    03.5
+0039:  CLRF   06
+003A:  BCF    03.5
+003B:  CLRF   06
+....................           } 
+....................    } 
+003C:  GOTO   026
+.................... } 
+....................  
+003D:  SLEEP
+
+Configuration Fuses:
+   Word  1: 3F31   XT NOWDT PUT NOBROWNOUT NOLVP NOCPD NOWRT NODEBUG NOPROTECT

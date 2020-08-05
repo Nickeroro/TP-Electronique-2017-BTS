@@ -1,0 +1,42 @@
+[PROJECT]
+Target=U:\Mes Documents\Electronique\TP_Programmation\capteur_analog_matrix\main.hex
+Development_Mode=
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+Processor=0x876A
+[U:\Mes Documents\Electronique\TP_Programmation\capteur_analog_matrix\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=U:\Mes Documents\Electronique\TP_Programmation\capteur_analog_matrix\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=main.c
+2=
+[Target Data]
+OptionString=-p +FM
+FileList=U:\Mes Documents\Electronique\TP_Programmation\capteur_analog_matrix\main.c
+[debugperif]
+selected=Analog/Digital Conv
+[debugram]
+autoread=1
+[debugbreak]
+count=0
+[pcwdebug]
+watchcol0=75
+[debugwatch]
+e1=valeur
+count=1
+[debugexpr]
+expr=
+sideeffects=0
+[debugsfr]
+autoread=1
+[Units]
+Count=1
+1=main (main)

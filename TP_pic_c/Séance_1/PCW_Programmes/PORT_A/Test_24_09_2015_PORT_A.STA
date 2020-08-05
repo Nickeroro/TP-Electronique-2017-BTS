@@ -1,0 +1,47 @@
+
+ROM used: 31 (0%)
+          31 (0%) including unused fragments
+
+          0 Average locations per line
+          10 Average locations per statement
+
+RAM used: 5 (1%) at main() level
+          5 (1%) worst case
+
+Stack used: 0 worst case (out of 7 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   13     3 100  Test_24_09_2015_PORT_A.c
+   16     0   0  Test_24_09_2015_PORT_A.h
+  294     0   0  C:\Program Files\PICC\devices\16F876A.h
+----- -----
+  323     3 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     27  87   0    32  1.2  main
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               1
+    Statements              3
+    Comments                71
+    Volume (V)              33
+    Difficulty (D)          1.0
+    Effort to implement (E) 33
+    Time to implement (T)   0 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   1
+    Maintainability (MI)    158
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF    27  2017  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01EFF     0  1792  
+
+
+

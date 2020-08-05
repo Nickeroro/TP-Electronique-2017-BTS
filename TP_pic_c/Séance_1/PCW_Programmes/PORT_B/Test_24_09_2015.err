@@ -1,0 +1,7 @@
+>>> Warning 201 "Test_24_09_2015.c" Line 9(1,1): Assignment inside relational expression
+>>> Warning 207 "Test_24_09_2015.c" Line 9(26,27): Code has no effect
+>>> Warning 201 "Test_24_09_2015.c" Line 10(1,1): Assignment inside relational expression
+>>> Warning 207 "Test_24_09_2015.c" Line 10(26,27): Code has no effect
+      Memory usage:   ROM=1%      RAM=3% - 3%
+      0 Errors,  4 Warnings.
+Build Successful.

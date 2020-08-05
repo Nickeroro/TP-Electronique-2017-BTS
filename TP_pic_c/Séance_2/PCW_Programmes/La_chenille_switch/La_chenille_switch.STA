@@ -1,0 +1,50 @@
+
+ROM used: 121 (1%)
+          121 (1%) including unused fragments
+
+          0 Average locations per line
+          5 Average locations per statement
+
+RAM used: 8 (2%) at main() level
+          8 (2%) worst case
+
+Stack used: 2 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   48    26 100  La_chenille_switch.c
+   14     0   0  chenille.h
+  294     0   0  C:\Program Files\PICC\devices\16F876A.h
+----- -----
+  356    26 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     21  17   1             @delay_ms1
+0     24  20   0   156  3.1  sens_droit
+0     24  20   0   156  3.1  sens_gauche
+0     48  40   1   207  4.4  MAIN
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               3
+    Statements              26
+    Comments                72
+    Volume (V)              700
+    Difficulty (D)          10.2
+    Effort to implement (E) 7105
+    Time to implement (T)   7 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   3
+    Maintainability (MI)    156
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF   117  1927  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

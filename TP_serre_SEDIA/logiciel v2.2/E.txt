@@ -1,0 +1,273 @@
+Gráficas
+Muestra en pantalla por vía
+Muestra en pantalla por grupo
+Periodos de muestreo
+Definición de los grupos
+Ajustes
+Niveles de alarma
+Valores
+Alarmas en contacto
+Diarios
+Resumen de las alarmas
+Números de llamada
+Calibrado
+Reloj
+Instalación
+Parámetros generales
+Comunicación
+Lista de sitíos
+Total
+Oxígeno en saturación
+Niveles de alarma
+Vía de alarma
+Bajo
+Alto
+Oxígeno en saturación
+Temperatura
+Presión
+Salinidad
+Oxígeno
+Valores
+Vía de medida
+Valor
+Programa
+Playa
+Salida
+Sentido
+NA
+NC
+Calibrado
+Auto
+Intítulado
+Puntos
+Medida
+Grupos de muestra en pantalla
+Grupo
+Parámetros generales
+Numero de tarjetas analogicas
+Numero de tarjetas de entrada TON
+Numero de tarjetas de salida TON
+Numero de tarjetas radio
+Numero de vias cableadas
+Numero de vias radio
+Histeresis defecto analogico
+Filtro defecto analogico (s)
+Periodo de alarma externa
+Tiempo antes rearme de la alarma (min)
+Numero de regulaciones
+Números de llamada
+Alarmas en contacto
+Pantalla
+Estado normal
+Salida
+Control
+Comunicación
+Puerto serie
+Número micro-ordenador
+Número Aqualarm
+Tipo
+Modo
+Normal
+Local
+Distante
+Intervalo 
+Mes
+Año
+Mensuales
+Totalizadores
+Integracion
+Intervalos de muestreo
+Fotoperiodo
+Vias calculadas
+Definicion
+Gráficas por vía
+Gráficas por grupo
+Sobrepasa nivel alto
+Sobrepasa nivel bajo
+Desaparición del fallo
+Bus Can
+Batería descargada
+Disminuye de un minuto la hora seleccionada
+Incrementa de un minuto la hora seleccionada
+Copia la linea seleccionada sobre la siguiente
+Grupos de alarma
+Alarma retrasada
+Dia
+Hora inicio
+Hora final
+Calendario
+Grupos
+Bateria instalada
+Fecha
+Hora
+Título
+?Desea eliminar el diario ?
+Regulación
+Nombre dosier Excel
+Titulo
+Factores de escala
+Aqualarm conectado
+Comunicación interrumpida
+Error de transmisión
+Número de llamada
+Nombre de la hoja Excel
+Numero linea de inicio
+Fallo de arranque
+Ecuacion logica
+Programa de mando
+Fallo tarjeta analogica
+Fallo tarjeta entrada TON
+Fallo tarjeta salida TON
+Fallo via radio
+Conectado/desconectado
+Vía de medida Temperatura
+Resúmenes
+Consumo de los accionadores
+Fecha de inicio
+Potencia (W)
+Consumo 
+Editor para Aqualarm
+Rectángulo
+Rectángulo redondeado
+Elipse
+Punto de medida
+Entradas todo o nada
+Control del accionador
+Desplazamiento
+Supresión
+Copia de una figura
+Número de entrada
+Número de salida
+Nombre de la unidad
+Título de la hoja
+Número de medidas (3 máx)
+Unidades
+Entrada
+Posición flecha
+Sentido
+Bajo
+Derecha
+Izquierda
+Alto
+Selección de una vía de medida
+Identificación de una vía de medida
+Selección de una fecha de registro
+Selección de un grupo de muestra en pantalla
+Impresión de las gráficas
+Nivel Bajo de alarma
+Nivel alto de alarma
+Tasa de saturación
+Idioma
+Francés
+Inglés
+Español
+Italiano
+Alemán
+Noruego
+Danese
+Japones
+Guardar las modificaciones
+Exportación
+Registros brutos
+Medias diarias
+Fecha final
+Repertorio de exportación
+Nombre del fichero exportado
+Vías seleccionadas
+Sedia-Aqualarm
+Histeresis sobre alarma (Mgl/10)
+Imprimir
+Borrar
+Conexion valida
+Via
+Anular
+Regulacion de plataforma
+del
+al
+RAZ Conso
+Valor fija
+Programas
+Hora
+Valor
+Modem instalado en Aqualarm
+Recuperacion de los registros
+Filtracion
+Prioridad
+Tiempo maximo para archivar (dias)
+Codigo administrador
+Arranque
+Ceirre
+Diario de los acontecimientos
+Nombre
+Codigo
+Modificaciones autorizadas
+Acceso
+Fecha inicio
+Fecha final
+Domingo
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Todos los dias
+Opcion manual para aparicion diario de alarmas
+Valor impulsion
+Factor horario
+Conteo
+Tiempo de activacion de la entrada
+Tiempo de activacion de la salida
+Modem del Aqualarm
+Codigo utilizador
+Numero centro administracion
+Vias radio
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
+Dato
+Columna
+Insertar bitmap
+A condicionar de nuevo
+Tiempo de activacion del bit
+Numéro bit interno
+bit interno
+Codigo de acceso
+Emision de una copia
+Colores
+Mode force
+Instable
+Niveau de filtrage
+Heure de rétablissement des modes d'alarme
+Entrée de controle
+Manuel
+Automatique
+Dernier étalonnage le
+Bit d'alarme
+Forcage autorisé
+Numéro de voie
+Numéro émetteur
+Décalage consigne
+si niveau inférieur à
+Décalage négatif de consigne
+si niveau supèrieur à
+Débit fixe (l/min)
+Numéro sonde amont
+aval
+Seuil haut amont
+Ouverture
+Plage
+Période(s)
+Débit vanne TOR (l/min)
+sur l'entrée
+RAZ
+

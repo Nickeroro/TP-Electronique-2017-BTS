@@ -1,0 +1,147 @@
+
+**** 10/13/15 11:53:01 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEM
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "simu_01.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_10.5\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source PILE_TEST_1
+R_R5         0 VB  27k  
+R_R12         0 VA  62k  
+R_R13         VA VALIM+  22k  
+R_R22         0 VS  33k  
+C_C8         0 VA  22n  
+X_U3A         VB VA VBATT 0 VOUT TLC274/101/TI
+V_U2         VALIM+ 0 5Vdc
+V_Vbatt         VBATT 0  
++PWL 0 0 0 0 
+R_R14         VOUT VS  47k  
+R_R11         VB VBATT  39k  
+
+**** RESUMING simu_01.cir ****
+.END
+
+**** 10/13/15 11:53:01 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEM
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U3A.DX        
+          IS  800.000000E-18 
+
+
+**** 10/13/15 11:53:01 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEM
+
+
+ ****     Junction FET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               X_U3A.JX        
+               PJF             
+         VTO    -.19         
+        BETA  672.800000E-06 
+          IS  350.000000E-15 
+
+
+**** 10/13/15 11:53:01 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEM
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(   VA)    3.6905  (   VB) 5.782E-06  (   VS)    -.3094  ( VOUT)    -.7500      
+
+(VBATT)    0.0000  (VALIM+)    5.0000 (X_U3A.6)    9.1904                       
+
+(X_U3A.7)    -.7538                   (X_U3A.8)    -.7538                       
+
+(X_U3A.9)    0.0000                   (X_U3A.10)     .1796                      
+
+(X_U3A.11)    -.8000                  (X_U3A.12)    -.2775                      
+
+(X_U3A.53)   -2.1400                  (X_U3A.54)     .6400                      
+
+(X_U3A.60)    -.8000                  (X_U3A.90)    -.0503                      
+
+(X_U3A.91)   25.0000                  (X_U3A.92)  -25.0000                      
+
+(X_U3A.99)    0.0000                  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_U2        -5.952E-05
+    V_Vbatt      1.750E+08
+    X_U3A.VAD    9.192E-05
+    X_U3A.VB     9.190E-05
+    X_U3A.VC    -1.750E+08
+    X_U3A.VE    -1.750E+08
+    X_U3A.VLIM  -5.029E-05
+    X_U3A.VLP   -2.505E-11
+    X_U3A.VLN   -2.495E-11
+
+    TOTAL POWER DISSIPATION   4.87E+08  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 10/13/15 11:53:01 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "SCHEMATIC1-simu_01"  [ U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\PILE_TEST_elv-PSpiceFiles\SCHEM
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .22
+

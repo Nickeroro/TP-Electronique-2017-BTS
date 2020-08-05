@@ -1,0 +1,8 @@
+ÀÄchenille_avec_2_bp_with_void
+   ÀÄMAIN  0/50  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ??0??
+      ÃÄsens_droit  0/24  Ram=0
+      ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ÀÄsens_gauche  0/24  Ram=0
+         ÀÄ@delay_ms1  0/21  Ram=1

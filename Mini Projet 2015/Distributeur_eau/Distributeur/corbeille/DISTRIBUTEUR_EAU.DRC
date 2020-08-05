@@ -1,0 +1,29 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part SCL
+                    SCHEMATIC1, 01_Distributeur_eau  (264.16, 68.58) 
+[DRC0011]  Reference is invalid for this part SDA
+                    SCHEMATIC1, 01_Distributeur_eau  (264.16, 60.96) 
+[DRC0011]  Reference is invalid for this part 0RT
+                    SCHEMATIC1, 01_Distributeur_eau  (269.24, 33.02) 
+[DRC0011]  Reference is invalid for this part RX
+                    SCHEMATIC1, 01_Distributeur_eau  (269.24, 25.40) 
+[DRC0011]  Reference is invalid for this part 0I2C
+                    SCHEMATIC1, 01_Distributeur_eau  (264.16, 76.20) 
+[DRC0011]  Reference is invalid for this part TX
+                    SCHEMATIC1, 01_Distributeur_eau  (269.24, 17.78) 
+[DRC0011]  Reference is invalid for this part 5RT
+                    SCHEMATIC1, 01_Distributeur_eau  (269.24, 10.16) 
+
+Checking for Duplicate References
+
+Check Bus width mismatch

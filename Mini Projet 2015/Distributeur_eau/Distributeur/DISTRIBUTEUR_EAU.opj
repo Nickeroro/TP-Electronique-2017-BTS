@@ -1,0 +1,156 @@
+(ExpressProject "Distributeur_eau"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\distributeur_eau.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File
+       "U:\Mes Documents\Electronique\Mini Projet 2015\Distributeur_eau\Netlist\DISTRIBUTEUR_EAU_Netlist.mnl")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (FALSE)
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File
+       "U:\MES DOCUMENTS\MINI PROJET 2015\DISTRIBUTEUR_EAU\DISTRIBUTEUR\DISTRIBUTEUR_EAU.DRC")
+    (TRUE)
+    (TRUE)
+    (Board_sim_option "VHDL_flow")
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\distributeur_eau_netlist.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\distributeur_eau.drc"
+      (Type "Report"))
+    (File "..\netlist\distributeur_eau_netlist.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (LM7805/TO_7
+      (FullPartName "LM7805/TO_7.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (TEST_POINT_0
+      (FullPartName "TEST_POINT_0.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (JUMPER_DP_O
+      (FullPartName "JUMPER_DP_O.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (IRF520_1
+      (FullPartName "IRF520_1.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (BS170/TO_1
+      (FullPartName "BS170/TO_1.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST/SM_0"
+      (FullPartName "SW PUSHBUTTON-SPST/SM_0.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (PIC16F84_P_1
+      (FullPartName "PIC16F84_P_1.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0"))
+    (AD623/AD_4
+      (FullPartName "AD623/AD_4.Normal")
+      (LibraryName
+         "K:\DOCUMENTS EN CONSULTATION\MINI-PROJET\SCHEMA_ROUTAGE\MP_CAPTURE_2015.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "K:\Documents en consultation\Mini-Projet\Schema_routage")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "U:\Mes Documents\Electronique\Mini Projet 2015\Distributeur_eau\Distributeur\distributeur_eau.dsn")
+      (Path "Design Resources"
+         "U:\Mes Documents\Electronique\Mini Projet 2015\Distributeur_eau\Distributeur\distributeur_eau.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "U:\Mes Documents\Electronique\Mini Projet 2015\Distributeur_eau\Distributeur\distributeur_eau.dsn"
+         "SCHEMATIC1" "01_Distributeur_eau"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 387 0 494"))
+      (Tab 0)))
+  (MPSSessionName "ntalec-b"))

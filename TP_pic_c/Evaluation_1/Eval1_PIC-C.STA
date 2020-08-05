@@ -1,0 +1,48 @@
+
+ROM used: 77 (1%)
+          77 (1%) including unused fragments
+
+          0 Average locations per line
+          6 Average locations per statement
+
+RAM used: 7 (2%) at main() level
+          8 (2%) worst case
+
+Stack used: 1 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   27    12 100  Eval1_PIC-C.c
+   14     0   0  Eval1_PIC-C.h
+  294     0   0  C:\Program Files\PICC\devices\16F876A.h
+----- -----
+  335    12 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     23  30   1             @delay_ms1
+0     50  65   1   245  5.0  main
+ Inline        0             @cinit1
+
+Program metrics:
+    Functions               1
+    Statements              12
+    Comments                71
+    Volume (V)              249
+    Difficulty (D)          4.5
+    Effort to implement (E) 1133
+    Time to implement (T)   1 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   2
+    Maintainability (MI)    125
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF    73  1971  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

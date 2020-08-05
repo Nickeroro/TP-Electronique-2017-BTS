@@ -1,0 +1,81 @@
+
+**** 09/23/15 15:52:51 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "rc_init_orcad_sch1-rc_init_bode"  [ u:\mes documents\mini projet 2015\travail_orcad\rc_init_orcad-pspicefiles\rc_init_o
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "rc_init_bode.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_10.5\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 1000 10 1000k
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\rc_init_orcad_sch1.net" 
+
+
+
+**** INCLUDING rc_init_orcad_sch1.net ****
+* source RC_INIT_ORCAD
+R_R1         VE VS  10k  
+C_C1         VS 0  10n  
+V_V2         VE 0 DC 0Vdc AC 1Vac 
+
+**** RESUMING rc_init_bode.cir ****
+.END
+
+**** 09/23/15 15:52:51 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "rc_init_orcad_sch1-rc_init_bode"  [ u:\mes documents\mini projet 2015\travail_orcad\rc_init_orcad-pspicefiles\rc_init_o
+
+
+ ****     SMALL SIGNAL BIAS SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(   VE)    0.0000  (   VS)    0.0000  
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V2         0.000E+00
+
+    TOTAL POWER DISSIPATION   0.00E+00  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 09/23/15 15:52:51 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "rc_init_orcad_sch1-rc_init_bode"  [ u:\mes documents\mini projet 2015\travail_orcad\rc_init_orcad-pspicefiles\rc_init_o
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .20
+

@@ -1,0 +1,194 @@
+(ExpressProject "PILE_TEST"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "D:\Documents and Settings\denis\Bureau\Portail_MB2000\orcad\balise.OLB"
+        (DisplayName
+           "D:\Documents and Settings\denis\Bureau\Portail_MB2000\orcad\balise.OLB")
+        (Type "Schematic Library"))
+      (File
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\LIBRARY_SERRE_A_ORCHIDEE.OLB"
+        (DisplayName
+           "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\LIBRARY_SERRE_A_ORCHIDEE.OLB")
+        (Type "Schematic Library")))
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File "U:\MES DOCUMENTS\ORCAD\BALISE\PILE_TEST_1.DRC")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (RootChangedForceReNetlist "x")
+    (Board_sim_option "VHDL_flow")
+    (File ".\pile_test_1.dsn"
+      (Type "Schematic Design")))
+  (Folder "Outputs"
+    (File ".\pile_test_elv-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\pile_test_elv-pspicefiles\schematic1\simu_01.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\pile_test_elv-pspicefiles\schematic1\simu_01.sim"
+        (DisplayName "SCHEMATIC1-simu_01")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries")
+    (Folder "Stimulus Files")
+    (Folder "Include Files"))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (JUMPER_2_contacts
+      (FullPartName "JUMPER_2_contacts.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\LIBRARY_SERRE_A_ORCHIDEE.OLB")
+      (DeviceIndex "0"))
+    (TEST_POINT
+      (FullPartName "TEST_POINT.Normal")
+      (LibraryName "U:\MES DOCUMENTS\MINI-PROJET2008\MON_WORK_ORCAD\SERRE.OLB")
+      (DeviceIndex "0"))
+    (LAMP
+      (FullPartName "LAMP.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (2N1595
+      (FullPartName "2N1595.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\THYRISTR.OLB")
+      (DeviceIndex "0"))
+    (QMMJT9435/ON
+      (FullPartName "QMMJT9435/ON.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\ON_BJT.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TLC272
+      (FullPartName "TLC272.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (TLC272/101/TI
+      (FullPartName "TLC272/101/TI.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\TEX_INST.OLB")
+      (DeviceIndex "0"))
+    (CAP NP
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "D:\DOCUMENTS AND SETTINGS\DENIS\BUREAU\MINI-PROJET_2008\MON_WORK_ORCAD\SERRE.OLB")
+      (DeviceIndex "0"))
+    (LM7805
+      (FullPartName "LM7805.Normal")
+      (LibraryName
+         "D:\DOCUMENTS AND SETTINGS\DENIS\BUREAU\MINI-PROJET_2008\MON_WORK_ORCAD\SERRE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R2
+      (FullPartName "R2.Normal")
+      (LibraryName
+         "D:\DOCUMENTS AND SETTINGS\DENIS\BUREAU\MINI-PROJET_2008\MON_WORK_ORCAD\SERRE.OLB")
+      (DeviceIndex "0"))
+    (D1N4004
+      (FullPartName "D1N4004.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\DIODE.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (JUMP2
+      (FullPartName "JUMP2.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\LIBRARY_SERRE_A_ORCHIDEE.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\LIBRARY_SERRE_A_ORCHIDEE.OLB")
+      (DeviceIndex "0"))
+    (JUMPER2
+      (FullPartName "JUMPER2.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (B2S
+      (FullPartName "B2S.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VPWL
+      (FullPartName "VPWL.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (TLC274/101/TI
+      (FullPartName "TLC274/101/TI.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\TEX_INST.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "Q:\DS_TP_TD\TP\mini-projet_2008\TP_DS18B20_DS18S20\PIC_DS1820_orcad")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\pile_test_1.dsn")
+      (Path "Design Resources"
+         "U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\pile_test_1.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "U:\Mes Documents\Electronique\TP_Balise\TP3_simul-pile\simul_elv\pile_test_1.dsn"
+         "SCHEMATIC1" "pile_Analyse_temp"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 160 835 -4 -30 -2 198 -1 566"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 198 1683 0 735")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "U:\MES DOCUMENTS\ELECTRONIQUE\TP_BALISE\TP3_SIMUL-PILE\SIMUL_ELV\PILE_TEST_1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "pile_Analyse_temp")))
+  (MPSSessionName "ntalec-b"))

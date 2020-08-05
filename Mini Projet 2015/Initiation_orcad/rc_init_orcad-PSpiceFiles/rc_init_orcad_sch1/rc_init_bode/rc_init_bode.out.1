@@ -1,0 +1,44 @@
+
+**** 09/23/15 15:00:18 ******* PSpice 10.5.0 (Jan 2005) ******* ID# 2089943105 
+ ** Profile: "rc_init_orcad_sch1-rc_init_bode"  [ u:\mes documents\mini projet 2015\travail_orcad\rc_init_orcad-PSpiceFiles\rc_init_o
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "rc_init_bode.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\OrCAD\OrCAD_10.5\tools\PSpice\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.AC DEC 1000 10 100k
+.PROBE V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\rc_init_orcad_sch1.net" 
+
+
+
+**** INCLUDING rc_init_orcad_sch1.net ****
+* source RC_INIT_ORCAD
+R_R1         VE VS  10k  
+C_C1         VS 0  10n  
+V_V2         VE 0 DC 0Vdc AC 1Vac 
+V_V1         M_UN0001 M_UN0002  
++PULSE 0 5 0 0 0 0.5m 1m
+
+**** RESUMING rc_init_bode.cir ****
+.END
+
+ERROR -- Less than 2 connections at node M_UN0001
+ERROR -- Less than 2 connections at node M_UN0002
+ERROR -- Node M_UN0001 is floating
+ERROR -- Node M_UN0002 is floating

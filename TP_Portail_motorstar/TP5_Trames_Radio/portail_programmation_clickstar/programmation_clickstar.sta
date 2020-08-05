@@ -1,0 +1,32 @@
+
+ROM used: 195 (2%)
+          195 (2%) including unused fragments
+
+          1 Average locations per line
+          5 Average locations per statement
+
+RAM used: 14 (8%) at main() level
+          15 (9%) worst case
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   91    41 100  Y:\Systemes\Portail_MB2000\programmation_pcw\portail_programmation_clickstar\programmation_clickstar.c
+  270     0   0  C:\Program Files\PICC\devices\16F876A.h
+----- -----
+  722    82 Total
+
+Page ROM  %  RAM  Functions:
+---- --- --- ---  ----------
+0     22  11   1  @delay_ms1
+0    127  65   0  main
+0     21  11   1  emis_0
+0     21  11   1  emis_1
+
+ Segment   Used  Free
+---------  ----  ----
+00000-00003     4  0  
+00004-007FF   191  1853  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01EFF     0  1792  
+

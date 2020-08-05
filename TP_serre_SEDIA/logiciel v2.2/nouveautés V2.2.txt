@@ -1,0 +1,16 @@
+Nouveautés V2.2 par rapport à V2.1
+--------------------------------
+- modification possible de l'étalonnage des compteurs temporels à partir du synoptique
+- étalonnage de ces compteurs en incrément par minute
+- possibilité de définir un facteur de division pour l'affichage
+- compteur temporels sur l'activation d'un bit logique
+- paramétrage des bits d'alarme à partir de l'éditeur et affichage sur le synoptique
+- ajout d'un mode 'Intégration d'une entrée analogique' dans les compteurs
+- possibilité d'afficher et de réinitialiser les compteurs totalisateurs sur le synoptique
+- bilans sur une période donnée
+
+Compatibilité
+-------------
+- les fichiers compt.dat,tcompt.dat et compc.dat doivent être supprimés
+- le fichier TO.DES est automatiquement converti en TOR.DES (programme AQUALARM)
+- le fichier expe.dat doit être supprimé

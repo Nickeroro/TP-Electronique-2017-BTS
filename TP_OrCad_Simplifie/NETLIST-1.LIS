@@ -1,0 +1,32 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\DATA\_DEFAULT.TCH
+FILE-B: U:\MES DOCUMENTS\ELECTRONIQUE\TP_ORCAD_SIMPLIFIE\NETLIST.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint CAP_NP_100
+Adding footprint BORNIER2
+Adding footprint RES_4P
+Adding footprint LED3
+Adding package C
+Adding package NE555
+Adding package CON2
+Adding package R
+Adding package LED
+Adding component C1
+Adding component U1
+Adding component J1
+Adding component R1
+Adding component R2
+Adding component R3
+Adding component R4
+Adding component D1
+Adding component D2
+Adding net N00252
+Adding net GND
+Adding net N00260
+Adding net +5V
+Adding net N00466
+Adding net N00482
+Adding net N00581
+Deleting net DEFAULT
+*EOF*
+No errors found

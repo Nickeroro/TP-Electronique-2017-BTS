@@ -1,0 +1,42 @@
+[PROJECT]
+Target=U:\Mes Documents\Electronique\tp_pic_c\eval\Eval1_PIC-C.hex
+Development_Mode=
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+Processor=0x876A
+[U:\Mes Documents\Electronique\tp_pic_c\eval\Eval1_PIC-C]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=U:\Mes Documents\Electronique\tp_pic_c\eval\Eval1_PIC-C.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=Eval1_PIC-C.c
+2=Eval1_PIC-C.h
+3=
+[Target Data]
+OptionString=-p +FM
+FileList=U:\Mes Documents\Electronique\tp_pic_c\eval\Eval1_PIC-C.c
+[debugperif]
+selected=Analog/Digital Conv
+[debugram]
+autoread=1
+[debugbreak]
+count=0
+[pcwdebug]
+watchcol0=75
+[debugwatch]
+count=0
+[debugexpr]
+expr=
+sideeffects=0
+[debugsfr]
+autoread=1
+[Units]
+Count=1
+1=Eval1_PIC-C (main)

@@ -1,0 +1,163 @@
+CCS PCM C Compiler, Version 4.130, 469               05-nov.-15 11:51
+
+               Filename: U:\Mes Documents\Electronique\tp_pic_c\Séance_3\PCW_Programmes\Test_afficheur\Test_afficheur.lst
+
+               ROM used: 94 words (1%)
+                         Largest free fragment is 2048
+               RAM used: 8 (2%) at main() level
+                         8 (2%) worst case
+               Stack:    1 locations
+
+*
+0000:  MOVLW  00
+0001:  MOVWF  0A
+0002:  GOTO   02F
+0003:  NOP
+.................... #include <afficheur.h> 
+.................... #include <16F876A.h> 
+.................... //////// Standard Header file for the PIC16F876A device //////////////// 
+.................... #device PIC16F876A 
+.................... #list 
+....................  
+.................... #device adc=16 
+....................  
+.................... #FUSES NOWDT                    //No Watch Dog Timer 
+.................... #FUSES XT                       //Crystal osc <= 4mhz for PCM/PCH , 3mhz to 10 mhz for PCD 
+.................... #FUSES NOBROWNOUT               //No brownout reset 
+.................... #FUSES NOLVP                    //No low voltage prgming, B3(PIC16) or B5(PIC18) used for I/O 
+....................  
+.................... #use delay(clock=3276800) 
+*
+0011:  MOVLW  22
+0012:  MOVWF  04
+0013:  BCF    03.7
+0014:  MOVF   00,W
+0015:  BTFSC  03.2
+0016:  GOTO   025
+0017:  MOVLW  01
+0018:  MOVWF  78
+0019:  CLRF   77
+001A:  DECFSZ 77,F
+001B:  GOTO   01A
+001C:  DECFSZ 78,F
+001D:  GOTO   019
+001E:  MOVLW  0E
+001F:  MOVWF  77
+0020:  DECFSZ 77,F
+0021:  GOTO   020
+0022:  NOP
+0023:  DECFSZ 00,F
+0024:  GOTO   017
+....................  
+.................... #use STANDARD_IO( B ) 
+.................... #use rs232(baud=9600,parity=N,xmit=PIN_C6,rcv=PIN_C7,bits=8,stream=PORT1) 
+....................  
+....................  
+.................... int led=0; 
+.................... int lecture_A=8; 
+.................... Void test() 
+.................... { 
+....................           led = 0x01; 
+*
+0004:  MOVLW  01
+0005:  MOVWF  20
+....................           while (led <= 0x80) 
+....................                { 
+0006:  MOVF   20,W
+0007:  SUBLW  80
+0008:  BTFSS  03.0
+0009:  GOTO   02C
+....................                Output_b(led); 
+000A:  BSF    03.5
+000B:  CLRF   06
+000C:  BCF    03.5
+000D:  MOVF   20,W
+000E:  MOVWF  06
+....................                delay_ms (250); 
+000F:  MOVLW  FA
+0010:  MOVWF  22
+....................                Output_b(0x00); 
+*
+0025:  BSF    03.5
+0026:  CLRF   06
+0027:  BCF    03.5
+0028:  CLRF   06
+....................                delay_ms (0); 
+....................                led=led*2; 
+0029:  BCF    03.0
+002A:  RLF    20,F
+....................                }   
+002B:  GOTO   006
+.................... } 
+002C:  BCF    0A.3
+002D:  BCF    0A.4
+002E:  GOTO   05B (RETURN)
+....................  
+....................  
+.................... void main() 
+.................... { 
+002F:  CLRF   04
+0030:  BCF    03.7
+0031:  MOVLW  1F
+0032:  ANDWF  03,F
+0033:  MOVLW  14
+0034:  BSF    03.5
+0035:  MOVWF  19
+0036:  MOVLW  A6
+0037:  MOVWF  18
+0038:  MOVLW  90
+0039:  BCF    03.5
+003A:  MOVWF  18
+003B:  CLRF   20
+003C:  MOVLW  08
+003D:  MOVWF  21
+003E:  BSF    03.5
+003F:  BSF    1F.0
+0040:  BSF    1F.1
+0041:  BSF    1F.2
+0042:  BCF    1F.3
+0043:  MOVLW  07
+0044:  MOVWF  1C
+....................    port_B_pullups(0xFF); 
+0045:  BCF    01.7
+....................       While (true) 
+....................       { 
+....................         
+....................        output_B(input_A()); 
+0046:  MOVLW  FF
+0047:  MOVWF  05
+0048:  BCF    03.5
+0049:  BSF    03.5
+004A:  CLRF   06
+004B:  BCF    03.5
+004C:  MOVF   05,W
+004D:  MOVWF  06
+....................         
+....................        lecture_A=input_A() & 0x01;// lecture clavier 
+004E:  MOVLW  FF
+004F:  BSF    03.5
+0050:  MOVWF  05
+0051:  BCF    03.5
+0052:  MOVF   05,W
+0053:  ANDLW  01
+0054:  MOVWF  21
+....................        switch (lecture_A) 
+....................             { 
+0055:  MOVF   21,W
+0056:  XORLW  01
+0057:  BTFSS  03.2
+0058:  GOTO   05B
+....................        case 0x01:test(); 
+0059:  GOTO   004
+....................        break; 
+005A:  GOTO   05B
+....................             } 
+....................    } 
+005B:  BSF    03.5
+005C:  GOTO   046
+....................  } 
+....................  
+005D:  SLEEP
+
+Configuration Fuses:
+   Word  1: 3F31   XT NOWDT PUT NOBROWNOUT NOLVP NOCPD NOWRT NODEBUG NOPROTECT

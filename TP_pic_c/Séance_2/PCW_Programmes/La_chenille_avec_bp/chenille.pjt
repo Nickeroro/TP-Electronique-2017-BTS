@@ -1,0 +1,46 @@
+[PROJECT]
+Target=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille\chenille.hex
+Development_Mode=
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+Processor=0x876A
+[U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille\chenille]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille\chenille.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=chenille.c
+2=chenille.h
+3=
+4=chenille.h
+5=..\La _chenille_bis\affectation_A_a_B.h
+6=..\..\..\Séance_1\PCW_Programmes\PORT_B\Test_24_09_2015.h
+7=
+[Target Data]
+OptionString=-p +FM
+FileList=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille\chenille.c
+[debugperif]
+selected=Analog/Digital Conv
+[debugram]
+autoread=1
+[debugbreak]
+count=0
+[pcwdebug]
+watchcol0=75
+[debugwatch]
+count=0
+[debugexpr]
+expr=
+sideeffects=0
+[debugsfr]
+autoread=1
+[Units]
+Count=1
+1=chenille (main)

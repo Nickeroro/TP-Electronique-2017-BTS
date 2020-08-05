@@ -1,0 +1,10 @@
+#include <chenille.h>
+int led;
+void main()
+{
+   port_B_pullups(0xFF);
+      While (true)
+   {
+
+ }
+

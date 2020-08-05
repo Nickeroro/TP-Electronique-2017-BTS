@@ -1,0 +1,41 @@
+[PROJECT]
+Target=La_chenille_switch.HEX
+Development_Mode=2
+Processor=0x876A
+Processor_Text=PIC16F876A
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=U:\Mes Documents\Electronique\tp_pic_c\Séance_2\PCW_Programmes\La_chenille_switch\La_chenille_switch.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[La_chenille_switch.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=LA_CHE~1.C
+
+[Windows]
+0=0000 LA_CHE~1.C 0 0 796 451 3 0
+
+[Opened Files]
+1=La_chenille_switch.c
+2=chenille.h
+3=
+4=
+[Units]
+Count=1
+1=La_chenille_switch (main)

@@ -1,0 +1,273 @@
+Graphes
+Affichage par voie
+Affichage par groupe
+Périodes d'échantillonnage
+Définition des groupes
+Réglages
+Seuils d'alarme
+Consignes
+Alarmes sur contact
+Journaux
+Journal des alarmes
+Numéros d'appel
+Etalonnage
+Horloge
+Installation
+Paramètres généraux
+Communication
+Sites
+Total
+Oxygène en saturation
+Seuils d'alarme
+Voie de mesure
+Bas
+Haut
+Oxygène en saturation
+Température
+Pression
+Salinité
+Oxygène
+Consignes
+Voie de mesure
+Consigne
+Programme
+Plage
+Sortie
+Sens
+NO
+NF
+Etalonnage
+Auto
+Intitulé
+Points
+Mesure
+Groupes d'affichage
+Groupe
+Paramètres généraux
+Nombre de cartes entrées TOR
+Nombre de cartes sorties TOR
+Nombre de cartes analogiques
+Nombre de cartes radio
+Nombre de voies câblées
+Nombre de voies radio
+Hystérésis défaut analogique(u/10)
+Filtrage défaut analogique (s)    
+Délai alarme externe (s)
+Temps avant réarmement alarme (min)
+Nombre de régulations
+Numéros d'appel
+Alarmes sur contact
+Affichage
+Etat normal
+Sortie
+Contrôle
+Communication
+Port série
+Numéro micro-ordinateur
+Numéro Aqualarm
+Type
+Mode
+Normal
+Local
+Distant
+Intervalle
+Mois
+Année
+Mensuels
+Totalisateurs
+Intégration
+Intervalles d'échantillonnage
+Photopériode
+Voie calculée
+Définition
+Graphes par voie
+Graphes par groupe
+Dépassement seuil HAUT
+Dépassement seuil BAS
+Disparition du défaut
+Bus CAN
+Batterie déchargée
+Décrémente d'une minute l'heure sélectionnée
+Incrémente d'une minute l'heure sélectionnée
+Copie la ligne sélectionnée sur la suivante
+Groupes d'alarme
+Alarme retardée
+Jour
+Heure début
+Heure fin
+Calendrier
+Groupes
+Batterie installée
+Date
+Heure
+Intitulé
+Souhaitez-vous effacer le journal ?
+Régulation
+Nom classeur EXCEL
+Intitulé
+Echelle
+Aqualarm connecté
+Communication interrompue
+Erreur de transmission
+Numéro d'appel
+Nom de la feuille EXCEL
+N° ligne de départ
+Défaut d'initialisation
+Equation logique
+Programmes de commande
+Défaut carte analogique
+Défaut carte entrées TOR
+Défaut carte sorties TOR
+Défaut voie radio
+Connexion/Déconnexion
+Voie de mesure température
+Bilans
+Consommation des actionneurs
+Date de début
+Puissance (W)
+Consommation
+Editeur pour Aqualarm
+Rectangle
+Rectangle arrondi
+Ellipse
+Point de mesure
+Entrée tout-ou-rien
+Commande d'actionneur
+Déplacement
+Suppression
+Copie d'une figure
+Numéro d'entrée
+Numéro de sortie
+Nom de l'unité
+Intitulé du feuillet
+Nombre de mesures (3 max)
+Unités
+Entrée
+Position flèche
+Sans
+Bas
+Droite
+Gauche
+Haut
+Sélection d'une voie de mesure
+Identification d'une voie de mesure
+Sélection d'une date d'enregistrement
+Sélection d'un groupe d'affichage
+Impression des graphes
+Seuil d'alarme bas :
+Seuil d'alarme haut :
+Taux de saturation
+Langue
+Français
+Anglais
+Espagnol
+Italien
+Allemand
+Norvégien
+Danois
+Japonais
+Sauvegarder les modifications
+Exportation
+Enregistrements bruts
+Moyenne
+Date fin
+Répertoire d'exportation
+Nom du fichier exporté
+Voies sélectionnées
+Sedia-Aqualarm
+Hystérésis sur alarme (Mgl/10)
+Imprimer
+Effacer
+Liaison validée
+Voie
+Annuler
+Régulation de plate-formes
+du
+au
+RAZ compteur
+Consigne fixe
+Programmes
+Heure
+Consigne
+Modem installé dans Aqualarm
+Récupération des enregistrements
+Filtrage
+Mode
+Nombre de jours d'enregistrement
+Code administrateur
+Démarrage
+Arrêt
+Journal des évènements
+Nom
+Code d'accès
+Modifications autorisées
+Accès
+Date début
+Date fin
+Dimanche
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+Samedi
+Tous les jours
+Journal d'alarme surgissant
+Valeur impulsion
+Incrément par minute
+Comptage
+Durée d'activation entrée
+Durée activation sortie
+Modem de l'Aqualarm
+Code PIN
+Numéro du serveur
+Voies radio
+Janvier
+Février
+Mars
+Avril
+Mai
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+Décembre
+Donnée
+Colonne
+Insérer un bitmap
+A reconditionner
+Durée d'activation bit logique
+Numéro bit logique
+bit logique
+Mot de passe
+Emission copie
+Couleur
+Mode forcé
+Instable
+Niveau de filtrage
+Heure de rétablissement des modes d'alarme
+Entrée de contrôle
+Manuel
+Automatique
+Dernier étalonnage le
+Bit d'alarme
+Forcage autorisé
+Numéro de voie
+Numéro émetteur
+Décalage consigne
+si niveau inférieur à
+Décalage négatif de consigne
+si niveau supèrieur à
+Débit fixe (l/min)
+Numéro sonde amont
+aval
+Seuil haut amont
+Ouverture
+Plage
+Période(s)
+Débit vanne TOR (l/min)
+sur l'entrée
+RAZ
+
